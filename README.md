@@ -1,5 +1,7 @@
 # monks-and-nuns
-# data and R code in this repository were used to generate the results for the paper: "The cultural evolution of religious celibacy driven by marriage patterns across different world religions" by Šaffa et al.
+# data and R code in this repository were used to generate the results for the paper: 
+# "The cultural evolution of religious celibacy driven by marriage patterns across different world religions" by Šaffa et al.
+#
 # script no. 1 details the data preparation
 # scripts no. 2-5 include analysis of the main sample and all subsamples
 # scripts no. 6 and 7 process model posteriors and plot the figures
