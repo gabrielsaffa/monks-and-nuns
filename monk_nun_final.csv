@@ -1,0 +1,353 @@
+eHRAF_name,dplace_name,language,latitude,longitude,celibacy_cat,celibacy_cat_rev,marital_comp,marital_comp_rev,marital_comp_dplace,inheritance_dplace,marriage_trans,marriage_trans_rev,marriage_trans_dplace,class,infanticide_ord,infanticide_sex,religion,region
+Abipon,Abipón,ABIPON,-29,-61,0,0,1,1,2,1,2,2,1,4,2,2,1,South America
+Abkhaz,Abkhaz,ABKHAZ,43,41,0,0,1,1,2,5,4,4,4,5,NA,NA,3,Asia
+Ainu,Ainu,AINU_BIHORO,44,144,0,0,1,1,2,NA,1,1,6,1,2,NA,1,Asia
+Albanians,Gheg,ALBANIAN_GHEG,42,20,2,2,1,1,6,7,2,2,1,1,NA,NA,2,Europe
+Aleut,Aleut,ALEUT,53.86,-166.79,0,0,1,1,6,1,2,2,2,4,2,1,1,North America
+Alor,Alorese,ABUI,-8.22,124.26,0,0,1,1,2,5,2,2,1,2,1,NA,2,Asia
+Amahuaca,Amahuaca,AMAHUACA,-10,-72,0,0,1,1,2,1,2,2,2,1,2,3,1,South America
+Amhara,Amhara,AMHARIC,13,38,1,2,1,2,1,7,4,4,6,5,NA,NA,3,Africa
+Andamans,Andamanese,AKA_BEA,12,93,0,0,2,2,1,1,1,1,6,1,2,NA,1,Asia
+Arab Americans,NA,SAN_ANDRES_ARABIC_1,42.3601,-71.0589,3,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,North America
+Arab Canadians,NA,SAN_ANDRES_ARABIC_2,44.6488,-63.5724,3,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,North America
+Aracuanians,Mapuche,MAPUDUNGUN,-39,-68,0,0,1,1,5,7,2,2,1,2,2,1,1,South America
+Aranda,Northern Aranda,ARANDA,-24,134,0,0,1,1,3,1,3,3,7,1,2,1,1,Oceania
+Armenia,Armenians,ARMENIAN,40,45,2,2,2,2,1,7,3,3,7,2,NA,NA,3,Asia
+Assiniboine,Assiniboine,ASSINIBOINE,48,-106,0,0,1,1,3,1,2,2,1,1,2,1,1,North America
+Atayal,Atayal,ATAYAL,24,121,0,0,2,2,1,7,2,2,1,1,NA,NA,1,Asia
+Aymara,Aymara,CENTRAL_AYMARA,-16,-69,0,0,2,2,1,7,1,1,6,2,2,1,3,South America
+Azande,Azande,ZANDE,5,27,0,0,1,1,5,6,2,2,1,4,NA,NA,1,Africa
+Aztec,Aztec,CLASSICAL_NAHUATL,19,-99,1,3,1,2,2,7,2,1,3,5,NA,NA,1,Middle America and the Caribbean
+Babylonians,Babylonians,AKKADIAN,32,45,3,3,1,2,2,7,4,3,3,5,1,NA,1,Middle East
+Badaga,NA,BADAGA,11.4,76.7,2,2,1,1,2,7,2,2,1,5,0,0,5,Asia
+Bagisu,Gisu,MASABA,1,34,0,0,1,1,5,7,2,2,1,2,NA,NA,1,Africa
+Bahia Brazilians,NA,PORTUGUESE,-12.9714,-38.5014,1,1,2,2,1,7,3,3,7,5,NA,NA,3,South America
+Bakairi,Bacairi,BAKAIRI,-14,-55,0,0,1,1,2,1,1,1,6,1,2,NA,1,South America
+Bali,Balinese,BALI,-8.18,115.02,0,0,1,1,2,7,2,2,3,5,NA,NA,5,Asia
+Bambara,Bambara,BAMBARA,13,-7,0,0,1,1,5,6,2,2,1,4,2,1,2,Africa
+Banen,Banen,TUNEN,5,11,0,0,1,1,5,7,5,5,5,1,NA,NA,1,Africa
+Banyoro,Nyoro,NYORO,2,32,0,0,1,1,5,7,2,2,1,4,NA,NA,3,Africa
+Barama River Carib,Barama River Carib,KALINA,5,-59,0,0,1,1,2,1,2,2,2,1,2,1,1,South America
+Barundi,Rundi,RUNDI,-3,30,0,0,1,1,5,7,2,2,3,5,2,1,3,Africa
+Basques,French Basques,BASQUE,43,-1,1,1,2,2,1,5,4,3,7,5,NA,NA,3,Europe
+Basques,Spanish Basques,BASQUE_2,43,-2,1,1,2,2,1,5,4,3,7,5,NA,NA,3,Europe
+Basseri,Basseri,PERSIAN,30,34,0,0,1,1,2,1,2,2,1,2,NA,NA,2,Middle East
+Bau Fijians,Mbau Fijians,FIJIAN,-17.81,178.32,0,0,1,1,2,7,2,2,1,2,2,3,1,Oceania
+Belau,Palauans,PALAUAN,7.45,134.54,0,0,1,1,2,3,2,2,1,4,2,NA,3,Oceania
+Bemba,Bemba,BEMBA,-11,31,3,3,1,1,4,3,2,2,2,4,NA,NA,3,Africa
+Bena,Bena,BENA,-9,36,0,0,1,1,5,7,2,2,1,4,NA,NA,3,Africa
+Bengali,Bengali,BENGALI,23,88,0,0,1,1,2,7,3,3,7,5,NA,NA,5,Asia
+Berbers of Morocco,Riffians,TARIFIT_BENI_IZNASSEN,35,-4,0,0,1,1,2,7,2,2,1,2,NA,NA,2,Africa
+Betsileo,Betsileo,MALAGASY_PLATEAU_BETSILEO_FIANARANTSOA,-22,47,0,0,1,1,6,7,2,2,3,4,NA,NA,1,Africa
+Bhil,Bhil,DUNGRA_BHIL,22,74,0,0,1,1,2,7,2,2,1,5,2,1,5,Asia
+Bilen,Blin,BILIN,16,36,0,0,1,1,2,7,2,2,1,3,2,1,3,Africa
+Blackfoot,Blackfoot,BLACKFOOT,51,-112,0,0,1,1,3,1,2,2,1,2,1,NA,1,North America
+Blackfoot,Kainai,BLACKFOOT_Kainan,51,-115,0,0,1,1,3,1,4,4,4,2,1,NA,1,North America
+Blackfoot,Piegan,BLACKFOOT_Piegan,49,-115,0,0,1,1,3,1,4,4,4,2,1,NA,1,North America
+Bororo,Bororo,BORORO,-16,-55,0,0,1,1,2,NA,1,1,6,1,2,1,3,South America
+Botocudo,Aimoré,KRENAK,-18,-42,0,0,1,1,3,1,1,1,6,1,NA,NA,1,South America
+British (1485-1603),NA,ENGLISH,52.3555,-1.1743,1,1,2,2,1,7,3,3,7,5,NA,NA,3,Europe
+Burmans,Burmese,BURMESE,20,95,1,1,1,1,1,5,3,3,7,5,NA,NA,4,Asia
+Burusho,Burusho,BURUSHASKI,37,75,0,0,1,1,2,7,2,2,3,5,NA,NA,2,Asia
+Cajuns,NA,FRENCH,30.9843,-91.9623,3,3,2,2,NA,7,NA,NA,NA,NA,NA,NA,3,North America
+Cambodians,Khmer,KHMER,12,105,2,2,1,1,2,7,2,2,1,5,0,0,4,Asia
+Canela,Canela,APANIEKRA,-7,-45,0,0,2,2,1,1,2,2,2,1,0,0,1,South America
+Cayua,Cayua,MBYA,-26,-54,0,0,2,2,1,1,1,1,6,1,2,1,1,South America
+Central Thai,Thai,THAI,15,100,2,2,1,1,2,5,2,2,3,2,NA,NA,4,Asia
+Chachi,Chachi,CAYAPA,1,-79,0,0,2,2,1,5,1,1,6,1,2,1,1,South America
+Chagga,Chagga,MOCHI,-3,37,0,0,1,1,5,7,2,2,1,4,2,2,1,Africa
+Cherokee,Cherokee,CHEROKEE,36,-83,0,0,1,1,2,3,1,1,6,1,2,NA,1,North America
+Chinese Americans,NA,MANDARIN,36.7783,-119.4179,1,1,1,2,1,NA,4,4,4,5,2,3,4,North America
+Chinookans of the Lower Columbia River,Lower Chinook,LOWER_CHINOOK,45.99,-123.77,0,0,1,1,6,1,2,2,1,4,2,NA,1,North America
+Chipewyan,Dene,CHIPEWYAN,60,-105,0,0,1,1,2,1,1,1,6,1,2,3,1,North America
+Choroti,Choroti,CHOROTE_IYOWUJWA,-22,-62,0,0,2,2,1,1,2,2,2,1,2,1,1,South America
+Chukchee,Chukchi,CHUKCHEE,66,177,0,0,1,1,5,1,2,2,2,2,2,1,1,Asia
+Comanche,Comanche,COMANCHE,33,-100,0,0,1,1,3,1,1,1,6,1,2,3,1,North America
+Copper Eskimo,Copper Inuit,KANGIRYUARMIUTUN,69,-110,0,0,2,2,1,1,2,2,2,1,2,3,1,North America
+Creek,Muscogee,CREEK,33,-84,0,0,1,1,2,3,2,2,3,1,2,1,1,North America
+Croats,NA,CROATIAN,45.1,15.2,3,3,2,2,1,7,3,3,7,5,NA,NA,3,Europe
+Crow,Crow,CROW,45,-108,0,0,1,1,3,1,2,2,3,1,2,NA,1,North America
+Cuban Americans,NA,SPANISH,27.9944024,-81.7658,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,North America
+Cuna,Guna,KUNA_YALA_SAN_BLAS,9,-78,0,0,1,1,2,5,2,2,2,2,2,1,1,Middle America and the Caribbean
+Delaware,Delaware,UNAMI_UNNAMEDINSOURCE,41,-75,0,0,1,1,2,3,1,1,6,1,NA,NA,1,North America
+Dogon,Dogon,BANKAN_TEY,15,-3,0,0,1,1,2,6,2,2,2,2,2,2,1,Africa
+Early Icelanders,Icelanders,ICELANDIC,64,-20,1,1,2,2,1,7,4,4,7,3,NA,NA,3,Europe
+Eastern Apache,Chiricahua,CHIRICAHUA,31,-108,0,0,1,1,3,1,1,1,6,1,2,3,1,North America
+Enxet and Enlhet,Lengua,SANAPANA_ENLHET,-23,-59,0,0,1,1,2,1,1,1,6,1,2,3,1,South America
+Eyak,Eyak,EYAK,60.34,-144.85,0,0,1,1,6,1,2,2,2,2,2,1,1,North America
+Fellahin,Egyptians,CAIRO_ARABIC,25,33,1,1,2,2,2,5,2,2,1,5,NA,NA,3,Africa
+Fon,Fon,FON_GBE,7,2,0,0,1,1,5,7,2,2,1,4,NA,NA,1,Africa
+Fox,Fox,FOX,45,-95,0,0,1,1,3,1,2,2,2,1,NA,NA,1,North America
+Fulani,Wodaabe Fulani,FULFULDE,12,12,0,0,1,1,5,1,2,2,1,1,1,1,2,Africa
+Fur,Fur,FUR,12,24,0,0,1,1,2,7,2,2,1,4,NA,NA,2,Africa
+Ganda,Ganda,GANDA,1,32,0,0,1,1,5,7,2,2,1,4,2,2,1,Africa
+Garifuna,Garifuna,GARIFUNA,16,-89,3,3,1,1,2,1,2,1,6,1,NA,NA,3,Middle America and the Caribbean
+Garo,Garo,GARO,26,91,0,0,1,1,2,1,1,1,6,2,NA,NA,1,Asia
+Gikuyu,Kikuyu,GIKUYU,-1,37,0,0,1,1,5,7,2,2,1,2,2,1,1,Africa
+Goajiro,Wayuu,WAYUU,12,-72,0,0,1,1,5,1,2,2,1,2,NA,NA,1,South America
+Gond,Muria Gond,WESTERN_MURIA,20,81,0,0,1,1,2,1,2,2,1,1,NA,NA,1,Asia
+Gond,Madia,ABUJHMARIA,19,81,0,0,1,1,3,1,2,2,1,2,NA,NA,5,Asia
+Greece,Greeks,GREEK,39,23,1,1,2,2,1,5,3,3,7,5,1,3,3,Europe
+Gros Ventre,Gros Ventre,GROS_VENTRE,48.78,-108.98,0,0,1,1,3,1,2,2,1,1,1,3,1,North America
+Gusii,Gusii,GUSII,-1,35,0,0,1,1,5,7,2,2,1,1,0,0,3,Africa
+Hadza,Hadza,HADZA,-3,35,0,0,1,1,2,1,2,2,1,1,2,1,1,Africa
+Haida,Haida,HAIDA,54,-132,0,0,1,1,2,3,2,2,2,4,0,0,1,North America
+Haitians,Haitians,HAITIAN_CREOLE,18.41,-72.17,0,0,1,1,2,5,1,1,6,5,2,1,3,Middle America and the Caribbean
+Han Chinese,Chekiang,WU_SUZHOU,31,120,2,2,2,2,1,7,4,4,7,5,2,3,4,Asia
+Hausa,Maguzawa,HAUSA,12,10,0,0,1,1,5,6,2,2,1,4,2,1,2,Africa
+Hausa,Zazzagawa Hausa,HAUSA_2,11,8,0,0,1,1,5,5,2,2,1,5,2,1,2,Africa
+Hausa,Hausa Kanawa,HAUSA_3,12,9,0,0,1,1,5,7,2,2,1,4,2,1,2,Africa
+Hawaiians,Hawaiians,HAWAIIAN,19.89,-155.83,0,0,1,1,2,5,1,1,6,4,2,3,1,Oceania
+Hazara,Hazara,EASTERN_FARSI,35,66,0,0,1,1,2,7,2,2,1,2,NA,NA,2,Asia
+Hidatsa,Hidatsa,HIDATSA,47,-101,0,0,1,1,3,3,1,1,6,1,NA,NA,1,North America
+Hopi,Hopi,HOPI,36,-111,0,0,2,2,1,3,1,1,6,1,0,0,1,North America
+Huichol,Huichol,HUICHOL,22,-105,0,0,1,1,2,6,1,1,6,2,NA,NA,1,Middle America and the Caribbean
+Huron,Huron,WENDAT_HURON,44,-78,0,0,2,2,1,1,1,1,6,2,NA,NA,1,North America
+Iban,Iban,IBAN,2,112,0,0,2,2,1,5,1,1,6,1,2,1,1,Asia
+Ifugao,Ifugao,IFUGAO_BATAD,17,121,0,0,2,2,1,5,2,2,1,2,NA,NA,1,Asia
+Igbo,Igbo,IGBO,6,7,0,0,1,1,5,7,2,2,1,1,2,1,1,Africa
+Igbo,Afikpo,IGBO_2,6,8,0,0,1,1,5,7,2,2,1,2,2,1,1,Africa
+Ila,Ila,ILA,-16,27,0,0,1,1,5,1,2,2,1,2,2,1,1,Africa
+Imperial Romans,Ancient Romans,LATIN,42,12,0,0,2,2,1,5,3,3,7,5,2,1,1,Europe
+Inca,Inca,CUZCO_GNL,-13,-72,3,3,1,2,1,1,2,1,6,5,NA,NA,1,South America
+Ingalik,Deg Xit'an,HOLIKACHUK,62,-160,0,0,1,1,2,1,1,1,6,2,2,1,1,North America
+Inner Mongolia,NA,KALAQIN,44.0935,114.9042,2,2,1,1,2,7,4,4,4,4,2,1,4,Asia
+Iran,Iranians,PERSIAN_Iranians,36,52,0,0,1,1,2,4,2,2,1,3,NA,NA,2,Middle East
+Iroquois,Seneca,SENECA,43,-77,0,0,2,2,1,3,1,1,6,1,NA,NA,1,North America
+Island Carib,Callinago,ISLAND_CARIB,15.41,-61.27,0,0,1,1,2,1,2,2,2,1,NA,NA,1,Middle America and the Caribbean
+Israelites,Hebrews,BIBLICAL_HEBREW,32,35,0,0,1,1,2,7,2,2,1,4,2,3,1,Middle East
+Italian Americans,NA,ITALIAN,40.7128,-74.006,1,1,2,2,1,5,3,3,7,5,NA,NA,3,North America
+Italian Canadians,NA,ITALIAN_Italian_Canadians,43.7,-79.3832,3,3,2,2,1,5,3,3,7,5,NA,NA,3,North America
+Javanese,Javanese,MALANG,-7,110,0,0,1,1,2,5,1,1,6,5,NA,NA,2,Asia
+Jivaro,Shuar,JIVARO_SHUAR,-3,-78,0,0,1,1,6,1,2,2,2,1,2,1,1,South America
+Kachin,Kachin,JINGPHO,26,97,0,0,1,1,2,7,2,2,1,4,NA,NA,1,Asia
+Kaffa,Kafa,KEFA,7,36,0,0,1,1,6,7,2,2,1,4,NA,NA,1,Africa
+Kanak,Ajie,AJIE,-21.37,165.47,0,0,1,1,2,1,5,5,5,1,2,NA,1,Oceania
+Kanuri,Kanuri,KANURI,12,13,0,0,1,1,5,5,2,2,1,4,0,0,2,Africa
+Kapauku,Mee,KAPAUKU,-4,136,0,0,1,1,6,7,2,2,1,2,NA,NA,1,Oceania
+Karaja,Carajá,KARAJA,-12,-50,0,0,1,1,2,1,1,1,6,1,2,1,1,South America
+Karen,Karen,KAREN_PWO_WESTERN,17.12,97.19,2,2,1,1,1,5,1,1,6,2,0,0,4,Asia
+Kashmiri,Kashmiri,KASHMIRI,34,75,0,0,1,1,2,7,2,2,1,5,NA,NA,2,Asia
+Kaska,Kaska,KASKA,59,-128,0,0,2,2,1,1,2,2,2,1,2,3,1,North America
+Katab,Katab,TYAP,10,8,0,0,1,1,5,7,2,2,3,1,NA,NA,1,Africa
+Katab,Kagoro,KAGOMA,10,8,0,0,1,1,5,7,2,2,1,1,NA,NA,1,Africa
+Kazakh,Kazakh,KAZAKH,48,70,0,0,1,1,6,1,2,2,1,4,2,1,2,Asia
+Kerala,Kerala,MALAYALAM,11,76,1,1,3,3,2,3,3,3,6,5,0,0,5,Asia
+Khasi,Khasi,KHASI,26,92,0,0,2,2,1,3,1,1,6,4,NA,NA,3,Asia
+Khoi,Nama,NAMA,-26,18,0,0,1,1,2,1,4,4,4,2,2,NA,1,Africa
+Kimam,Kimam,KIMAGHAMA,-7.52,138.46,0,0,1,1,2,7,5,5,5,1,2,1,1,Oceania
+Kiribati,Makin,KIRIBATI,3.38,172.99,0,0,1,1,2,5,4,4,4,4,2,1,3,Oceania
+Klamath,Klamath,KLAMATH,43,-122,0,0,1,1,2,1,4,4,4,2,0,0,1,North America
+Kogi,Cágaba,KOGUI,11,-74,0,0,1,1,2,7,2,2,2,2,2,NA,1,South America
+Kol,Kol,MUNDARI,22,85,0,0,1,1,2,7,2,2,1,2,NA,NA,5,Asia
+Konso,Konso,KOMSO,6,37,0,0,1,1,2,7,1,1,6,2,NA,NA,1,Africa
+Korea,Koreans,KOREAN,38.134147,126.960754,1,3,1,2,1,7,4,3,6,5,1,3,4,Asia
+Koryak,Koryak,KORYAK,61.99,164.24,0,0,1,1,2,7,2,2,2,2,2,1,1,Asia
+Kpelle,Kpelle,KPELLE,7,-9,0,0,1,1,6,7,2,2,1,2,0,0,1,Africa
+Kurd,Kurd,KURDISH_CENTRAL,32,44,0,0,1,1,2,7,2,2,1,4,0,0,2,Middle East
+Kutenai,Kutenai,KUTENAI,50,-117,0,0,1,1,2,1,1,1,6,1,NA,NA,1,North America
+Kwoma,Kwoma,KWOMA,-4,142,0,0,1,1,6,7,2,2,1,1,2,1,3,Oceania
+Lakeshore Tonga,Tonga,M64_TONGA_2,-12,34,0,0,1,1,2,2,2,2,1,1,NA,NA,3,Africa
+Lapps,Sami,NORTHERN_SAAMI,68,22,0,0,2,2,1,7,1,1,6,2,2,1,3,Europe
+Lau,Lau,FIJIAN_2,-17.74,-179.31,0,0,1,1,3,1,4,4,4,2,NA,NA,3,Oceania
+Lepcha,Lepcha,LEPCHA,28,89,0,0,1,1,2,7,2,2,1,2,0,0,4,Asia
+Lesu,Lesu,MANDARA,-3.06,151.66,0,0,1,1,2,1,2,2,1,1,0,0,1,Oceania
+Libyan Bedouin,Saadi,ARABIC_LIBYAN_SPOKEN,30,28,0,0,1,1,2,5,2,2,1,3,NA,NA,2,Africa
+Libyan Bedouin,Sanusi,ARABIC_LIBYAN_SPOKEN_Sanusi,31,22,0,0,1,1,6,5,2,2,1,3,NA,NA,2,Africa
+Lozi,Lozi,SILOZI,-15,23,0,0,1,1,5,7,2,2,3,4,NA,NA,1,Africa
+Luguru,Luguru,LUGURU,-8,38,0,0,1,1,2,2,2,2,1,1,2,1,1,Africa
+Luo,Luo,LUO,-1,34,0,0,1,1,4,7,2,2,1,2,2,1,3,Africa
+Malays,Malays,MALAY,5,103,0,0,1,1,2,7,2,2,1,4,NA,NA,2,Asia
+Malekula,Seniang,SOUTH_WEST_BAY_BENOUR,-16.51,167.47,0,0,1,1,3,7,2,2,1,2,2,3,3,Oceania
+Mam Maya,Mam,MAM_CABRICAN,15,-92,0,0,2,2,1,7,2,2,3,2,NA,NA,3,Middle America and the Caribbean
+Manchu,Manchu,MANCHU,45,126,1,1,1,1,1,7,2,4,1,2,2,1,4,Asia
+Manus,Manus,SIVISA_TITAN,-2,147,0,0,1,1,2,1,4,4,4,2,2,NA,1,Oceania
+Mao,Mao,HOZO,9,35,0,0,1,1,5,6,5,5,5,1,NA,NA,2,Africa
+Maori,Māori,MAORI,-38.41,176.31,0,0,1,1,6,7,1,1,6,4,2,NA,1,Oceania
+Mara,Maras,LAKHER_MARA,22,93,0,0,1,1,2,7,2,2,1,4,NA,NA,1,Asia
+Maricopa,Maricopa,MARICOPA,33,-113,0,0,1,1,2,5,1,1,6,1,2,3,1,North America
+Marquesas,Marquesans,NORTH_MARQUESAN,-8.9,-140.08,0,0,3,3,7,5,1,1,6,4,0,0,3,Oceania
+Marshallese,Marshallese - Jaluit atoll,MARSHALLESE_Jaluit_atoll,6.28,169.49,0,0,1,1,2,3,1,1,6,4,2,1,3,Oceania
+Marshalls,Bikinians,MARSHALLESE,11.7,165.29,0,0,2,2,1,3,1,1,6,1,2,1,3,Oceania
+Marshalls,Majuro,MARSHALLESE_Majuro,7.09,171.13,0,0,2,2,1,3,1,1,6,4,2,1,3,Oceania
+Masa,Masa,MASANA,10,16,0,0,1,1,5,7,2,2,1,1,NA,NA,1,Africa
+Masai,Maasi,MAASAI,-2,36,0,0,1,1,5,7,2,2,1,1,2,1,1,Africa
+Mataco,Wichí,MATACO,-24,-63,0,0,1,1,2,1,2,2,2,1,2,1,1,South America
+Mbundu,Mbundu,UMBUNDU,-12,16,0,0,1,1,5,7,2,2,1,4,NA,NA,1,Africa
+Mbuti,Mbuti,BIRA_BIP,2,28,0,0,1,1,2,1,5,5,5,1,2,1,1,Africa
+Mende,Mende,MENDE,8,-11,0,0,1,1,5,6,2,2,1,4,1,1,1,Africa
+Mentawaians,Mentaweians,MENTAWAI,-2.93,100.23,0,0,2,2,1,3,2,2,2,1,2,NA,1,Asia
+Mescalero Apache,Mescalero,CHIRICAHUA_Mescalero,33,-103,0,0,1,1,3,NA,1,1,6,1,2,1,1,North America
+Miao,Miao,SUYONG_HMONG,26,107,0,0,1,1,2,7,2,2,1,1,2,1,1,Asia
+Mi'kmaq,Mi'kmaq,MICMAC,47,-65,0,0,1,1,2,1,2,2,2,1,NA,NA,1,North America
+Miskito,Miskito,MISKITO,14.766,-84.089,0,0,1,1,2,1,2,2,3,1,2,3,3,Middle America and the Caribbean
+Mongo,Mongo,MONGO_OPALA,1,22,0,0,1,1,5,6,2,2,1,1,NA,NA,1,Africa
+Mongo,Nkundo,MONGO,0,20,0,0,1,1,5,6,2,2,1,1,NA,NA,1,Africa
+Mongolia,Khalka,KHALKHA_MONGOLIAN,46,97,2,2,1,1,1,7,2,2,1,4,NA,NA,4,Asia
+Monguor,Tu,MONGUOR,39,100,2,2,1,1,2,7,2,2,1,4,2,3,4,Asia
+Montagnais,Montagnais,MONTAGNAIS,48,-72,0,0,1,1,2,7,2,2,2,1,NA,NA,1,North America
+Montagnais,Naskapi,NASKAPI,58,-70,0,0,1,1,2,1,1,1,6,1,NA,NA,1,North America
+Montenegrins,NA,SERBOCROATIAN_Montenegrins,42.4304,18.9215,2,2,1,1,2,7,1,1,6,5,2,1,3,Europe
+Mossi,Mossi (Yatenga),MOORE,13,-2,0,0,1,1,5,6,2,2,1,5,2,1,1,Africa
+Mossi,Mossi (Ouagadougou),MOORE_Mossi_Ouagadougou,12,-2,0,0,1,1,5,7,2,2,1,4,2,1,1,Africa
+Mundurucu,Munduruku,MUNDURUKU,-6,-58,0,0,1,1,2,1,2,2,2,1,2,1,1,South America
+Nambicuara,Nambikwara,NAMBIKWARA,-12,-59,0,0,1,1,2,1,1,1,6,1,NA,NA,1,South America
+Natchez,Natchez,NATCHEZ,32,-91,0,0,1,1,3,1,1,1,6,3,2,1,1,North America
+Navaho,Navajo,NAVAHO,37,-110,0,0,1,1,4,1,2,2,3,1,2,1,1,North America
+Ndyuka,Ndyuka,AUKAN,5,-54,0,0,1,1,4,1,1,1,6,1,NA,NA,3,South America
+Nganasan,Nganasan,NGANASAN,72,90,0,0,1,1,2,1,2,2,1,1,NA,NA,1,Asia
+Ngonde,Ngonde,NKHONDE,-10,34,0,0,1,1,4,6,2,2,1,4,NA,NA,1,Africa
+Nicobarese,Nicobarese,CAR,9.17,92.77,0,0,1,1,2,1,1,1,6,1,NA,NA,1,Asia
+Nivkh,Nivkh,GILYAK,53,142,0,0,1,1,2,1,2,2,1,1,2,3,3,Asia
+Nootka,Makah,MAKAH,48.33,-124.62,0,0,1,1,2,1,4,4,4,4,NA,NA,1,North America
+Northern Paiute,Wadadokado,NORTHERN_PAIUTE,43,-119,0,0,1,1,2,1,1,1,6,1,2,NA,1,North America
+Northern Paiute,Kidutokado,NORTHERN_PAIUTE_Kidutokado,42,-120,0,0,1,1,3,1,2,2,2,1,2,NA,1,North America
+Northern Paiute,Wadatkuht,NORTHERN_PAIUTE_Wadatkuht,41,-120,0,0,2,2,1,1,1,1,6,1,2,NA,1,North America
+Northern Paiute,Kuyuidokado,NORTHERN_PAIUTE_Kuyuidokado,40,-119,0,0,1,1,2,1,1,1,6,1,2,NA,1,North America
+Nuba,Otoro,UTORO,12,31,0,0,1,1,5,7,2,2,1,2,2,1,2,Africa
+Nubians,Barabra,KENZI,23,33,0,0,1,1,2,5,2,2,1,2,NA,NA,2,Africa
+Nuer,Nuer,NUER,8,32,0,0,1,1,5,7,2,2,1,1,0,0,1,Africa
+Nupe,Nupe,NUPE,9,6,0,0,1,1,5,6,2,2,1,5,NA,NA,1,Africa
+Nuu-chah-nulth,Nuu chah nulth,NOOTKA,49.16,-125.85,0,0,1,1,2,1,4,4,4,4,NA,NA,1,North America
+Nuxalk,Nuxalk,BELLA_COOLA,52,-127,0,0,1,1,6,1,4,4,4,4,2,1,1,North America
+Nyakyusa and Ngonde,Nyakyusa,NYAKYUSA,-9,34,0,0,1,1,5,6,2,2,1,1,NA,NA,1,Africa
+Ojibwa,Northern Saulteaux,SAULTEAUX,52,-98,0,0,1,1,2,NA,1,1,6,1,2,3,3,North America
+Ojibwa,Pekangekum,OJIBWA_SEVERN,52,-94,0,0,1,1,2,7,1,1,6,1,2,3,3,North America
+Ojibwa,Nipigon,CHIPPEWA,50,-88,0,0,1,1,2,NA,1,1,6,1,2,3,3,North America
+Ojibwa,Minnesota Ojibwa,CHIPPEWA_Minnesota_Ojibwa,49,-96,0,0,1,1,2,NA,1,1,6,1,2,3,3,North America
+Ojibwa,Rainy River Ojibwe,CHIPPEWA_Rainy_River,49,-92,0,0,1,1,2,5,2,2,1,1,2,3,3,North America
+Ojibwa,Eastern Ojibwa,OJIBWA_EASTERN,46,-85,0,0,1,1,2,1,2,2,2,1,2,3,3,North America
+Ojibwa,Bungi,SAULTEAUX_Bungi,51,-100,0,0,1,1,2,1,1,1,6,1,2,3,3,North America
+Okayama,Japanese,JAPANESE_KYOTO,35,136,1,3,2,2,1,7,4,3,4,5,2,2,4,Asia
+Okiek,Dorobo,SOGOO,0,36,0,0,2,2,1,7,2,2,1,1,2,1,1,Africa
+Okinawa,Okinawans,AKAJIMA_OKINAWAN,26.16,127.8,3,3,2,1,1,7,2,2,3,4,2,3,1,Asia
+Omaha,Omaha,OMAHA_PONCA,41,-96,0,0,1,1,2,7,4,4,4,1,2,1,1,North America
+Ona,Ona,ONA,-54,-69,0,0,1,1,2,1,1,1,6,1,0,0,1,South America
+O'Odham,Tohono O'odham,TOHONO_OODHAM,31,-112,0,0,1,1,3,7,1,1,6,1,NA,NA,1,North America
+Orokaiva,Orokaiva,OROKAIVA,-9,148,0,0,1,1,2,6,2,2,1,1,2,3,1,Oceania
+Palestinians,NA,PALESTINIAN_ARABIC,32,35.2,1,1,2,2,1,4,2,2,1,5,NA,NA,3,Middle East
+Pashtun,Yusufzai,NORTHERN_PASHTO,35,72,0,0,1,1,2,5,2,2,1,5,1,1,2,Asia
+Pawnee,Pawnee,PAWNEE,42,-100,0,0,1,1,3,1,1,1,6,4,0,0,1,North America
+Plateau Yumans,Havasupai,HAVASUPAI,36,-112,0,0,1,1,2,7,2,2,3,1,2,3,1,North America
+Pomo,Northern Pomo,POMO_NORTHERN,39,-123,0,0,1,1,6,1,1,1,6,2,2,1,1,North America
+Pomo,Eastern Pomo,POMO_EASTERN,39,-123,0,0,1,1,2,1,1,1,6,2,2,1,1,North America
+Pomo,Southern Pomo,SOUTHERN_POMO,38.55,-122.94,0,0,2,2,1,1,1,1,6,2,2,1,1,North America
+Popoluca,Sierra Popoluca,SOTEAPAN_ZOQUE,18,-95,0,0,1,1,3,7,1,1,6,1,NA,NA,3,Middle America and the Caribbean
+Pumé,Pumé,YARURO,7,-68,0,0,1,1,2,5,2,2,2,1,NA,NA,1,South America
+Quich� Maya,K'iche',CENTRAL_QUICHE,15,-91,0,0,1,1,2,7,2,2,3,2,0,0,3,Middle America and the Caribbean
+Quinault,Quinault,QUINAULT,47.42,-124.16,0,0,1,1,2,1,2,2,3,4,NA,NA,1,North America
+Rapa nui,Easter Islanders,RAPA_NUI,-27.12,-109.36,0,0,1,1,2,NA,1,1,6,4,NA,NA,1,Oceania
+Rhade,Rade,RADE,13,108,0,0,1,1,2,NA,3,3,7,2,NA,NA,1,Asia
+Rmeet,Lamet,LAMPANGLAMET,20,101,0,0,1,1,2,1,2,2,1,2,2,3,1,Asia
+Rural Irish,Irish,IRISH,53,-9,3,3,2,2,1,7,3,3,7,5,NA,NA,3,Europe
+Russians,Russians,RUSSIAN,53,41,0,0,2,2,1,1,4,4,4,5,NA,NA,3,Europe
+Rwala,Rwala,EASTERN_EGYPTIAN_BEDAWI_ARABIC,33,37,0,0,1,1,5,1,2,2,1,2,2,1,2,Middle East
+Rwandans,Banyaruanda,RWANDA,-2,30,0,0,1,1,5,7,2,2,1,5,2,1,3,Africa
+Sa,Bunlap,SA,-15.95,168.22,0,0,1,1,2,1,5,5,5,2,NA,NA,3,Oceania
+Sama-Bajau,Badjau Tawi-Tawi,SIBUTU_SOUTHERN_SAMA,5.09,119.97,0,0,2,2,1,NA,2,2,1,2,1,NA,1,Asia
+Samoans,Upolu Samoans,SAMOAN,-13.94,-171.77,0,0,1,1,2,6,4,4,4,4,0,0,1,Oceania
+Samoyed,Yurak-Samoyeds,NENETS,68,75,0,0,1,1,2,1,2,2,1,2,NA,NA,1,Asia
+San,!Kung,JUHOAN,-20,21,0,0,1,1,2,1,2,2,2,1,2,2,1,Africa
+Santa Cruz,Santa Cruz Islanders,NEA_NEMBOI,-10.73,165.85,0,0,1,1,2,NA,2,2,1,2,NA,NA,1,Oceania
+Santal,Santal,SANTALI,24,87,0,0,1,1,2,7,2,2,1,1,2,1,1,Asia
+Saramaka,Saramaccan,SARAMACCAN,4,-56,0,0,1,1,5,3,2,2,1,1,NA,NA,1,South America
+Semai,Senoi,SEMAI,4,102,0,0,1,1,2,1,1,1,6,1,1,1,1,Asia
+Semang,Semang,KENSIW,5,101,0,0,1,1,2,1,1,1,6,1,0,0,1,Asia
+Seminole,Seminole,MIKASUKI,27,-81,0,0,2,2,1,1,1,1,6,1,2,1,1,North America
+Serbian Americans,NA,SERBOCROATIAN_Serbian_Americans,40.6331,-89.3985,1,1,2,2,2,NA,4,4,7,5,NA,NA,3,North America
+Serbs,Serbs,SERBOCROATIAN,44,20,2,2,2,2,1,7,2,2,7,5,2,1,3,Europe
+Sherpa,Sherpa,SHERPA,28,87,1,1,3,3,7,7,4,4,7,2,NA,NA,4,Asia
+Shilluk,Shilluk,SHILLUK,10,32,0,0,1,1,5,7,2,2,1,5,1,2,1,Africa
+Shluh,Shluh,TASHELHIT_IDA_USEMLAL,30,-9,0,0,2,2,1,5,2,2,1,1,NA,NA,2,Africa
+Shona,Shona,KOREKORE,-19,31,0,0,1,1,4,7,2,2,1,4,2,1,1,Africa
+Sinhalese,Sinhalese,SINHALA,7,80,2,2,3,3,1,5,4,4,7,5,NA,NA,4,Asia
+Siriono,Sirionó,SIRIONO,-16,-64,0,0,1,1,3,1,1,1,6,1,0,0,1,South America
+Siwai,Siuai,MOTUNA,-6,155,0,0,1,1,2,3,2,2,1,2,2,NA,3,Oceania
+Slavey,DeneTha,SLAVEY,61,-120,0,0,1,1,3,1,2,2,2,1,NA,NA,3,North America
+Slovenes,NA,SLOVENIAN,46.0518,15.6524,0,0,2,2,1,7,3,3,7,5,NA,NA,3,Europe
+Somali,Somali (Esa),SOMALI,10,43,0,0,1,1,5,5,2,2,1,2,2,NA,2,Africa
+Somali,Somali (Dolbahanta),SOMALI_2,8,48,0,0,1,1,5,5,2,2,1,2,2,NA,2,Africa
+Songhai,Songhai,KOROBORO_SENNI,17,-1,0,0,1,1,2,5,2,2,1,5,NA,NA,2,Africa
+South Alaskan Eskimo,Chugach,C_YUPIK,60.72,-146.49,0,0,1,1,2,5,1,1,6,4,0,0,3,North America
+Southern Coast Salish,Twana,TWANA,48,-123,0,0,1,1,2,1,4,4,4,2,0,0,1,North America
+Suku,Suku,SUKU,-6,18,0,0,1,1,5,3,2,2,1,4,NA,NA,1,Africa
+Taiwan Hokkien,NA,AMOY_MINNAN_CHINESE,23.6978,120.9605,1,1,1,1,2,7,4,4,4,4,2,3,4,Asia
+Talamancans,Bribri,BRIBRI,9,-83,0,0,2,2,1,1,2,2,2,1,NA,NA,3,Middle America and the Caribbean
+Tallensi,Tallensi,FRAFRA,11,-1,0,0,1,1,5,6,2,2,1,2,NA,NA,1,Africa
+Tamil,Tamil,TAMIL,11,79,2,2,1,1,2,7,3,3,7,5,NA,NA,5,Asia
+Tanala,Tanala,MALAGASY_MERINA,-22,47,0,0,1,1,5,7,2,2,3,4,NA,NA,1,Africa
+Tapirape,Tapirapé,TAPIRAPE,-11,-52,0,0,2,2,1,1,1,1,6,1,2,1,1,South America
+Tarahumara,Tarahumara,CENTRAL_TARAHUMARA,28,-107,0,0,1,1,2,5,2,2,2,2,2,1,1,Middle America and the Caribbean
+Tehuelche,Tehuelche,TEHUELCHE,-46,-70,0,0,1,1,2,1,4,4,4,1,NA,NA,1,South America
+Telugu,Telugu,TELUGU,18,79,2,2,2,2,2,7,4,4,7,5,NA,NA,5,Asia
+Terena,Terena,TERENA,-21,-58,0,0,1,1,2,1,1,1,6,4,2,3,1,South America
+Tewa,San Ildefonso,TEWA_ARIZONA,36,-106,0,0,2,2,1,5,1,1,6,1,NA,NA,1,North America
+Tibetans,Central Tibetans,TIBETAN_CENTRAL,30,91,1,1,3,3,7,7,4,4,7,5,2,1,4,Asia
+Tikopia,Tikopia,TIKOPIA,-12.29,168.83,0,0,1,1,5,7,4,4,4,4,2,2,3,Oceania
+Tinputz,Kurtatchi,TEOP,-5.6,154.91,0,0,1,1,4,1,2,2,1,4,2,NA,1,Oceania
+Tiv,Tiv,TIV,7,9,0,0,1,1,5,1,5,5,5,1,NA,NA,1,Africa
+Tiwi,Tiwi,TIWI,-11.56,130.81,0,0,1,1,6,1,2,2,1,1,2,2,1,Oceania
+Tlingit,Tlingit,TLINGIT,58.12,-133.92,0,0,1,1,2,1,4,4,4,4,2,3,1,North America
+Tobelo,Tobelorese,TOBELO_2,1,128,0,0,2,2,1,5,2,2,1,1,NA,NA,1,Asia
+Toda,Toda,TODA,12,77,0,0,3,3,7,1,2,2,3,1,2,3,1,Asia
+Tonga,Plateau Tonga,M64_TONGA_1,-18,28,0,0,1,1,5,3,2,2,1,1,NA,NA,3,Africa
+Tongans,Tongans,TONGAN,-19.74,-175.07,3,3,2,2,2,6,4,1,6,4,0,0,3,Oceania
+Toradja,Toradja,BAREE,-2,121,0,0,2,2,1,5,2,2,1,2,2,NA,1,Asia
+Trobriands,Trobriands,KILIVILA,-8.43,151.09,0,0,1,1,2,2,4,4,4,4,2,3,1,Oceania
+Truk,Trukese,TRUKESE,7.34,151.6,0,0,2,2,1,7,1,1,6,1,2,1,1,Oceania
+Trumai,Trumai,TRUMAI,-12,-53,0,0,1,1,2,1,2,2,3,1,2,3,1,South America
+Tsonga,Tsonga,TSONGA,-24,32,0,0,1,1,4,1,2,2,1,4,2,NA,1,Africa
+Tuareg,Tuareg Ahaggar,TAMAHAQ_TAHAGGART,23,6,0,0,2,2,1,2,2,2,1,3,2,1,2,Africa
+Tubatulabal,Tübalulabal,TUBATULABAL,39,-118,0,0,2,2,1,1,2,2,1,1,2,NA,1,North America
+Tucano,Tucano,TUCANO,0,-70,0,0,1,1,6,1,5,5,5,1,2,3,1,South America
+Tucano,Cubeo,CUBEO,1,-71,0,0,1,1,2,1,5,5,5,1,2,3,1,South America
+Tucuna,Ticuna,TIKUNA,-3,-70,0,0,1,1,2,1,5,5,5,1,2,1,3,South America
+Tupinamba,Tupinambá,TUPINAMBA,-8,-35,0,0,1,1,5,1,2,2,2,2,NA,NA,1,South America
+Turkana,Turkana,TURKANA,4,35,0,0,1,1,5,7,2,2,1,1,NA,NA,1,Africa
+Turkmens,Turkmen,TURKMEN,38,62,0,0,1,1,2,7,2,2,1,4,NA,NA,2,Asia
+Turks,Turks,TURKISH,38,30,0,0,1,1,2,7,2,2,1,5,NA,NA,2,Middle East
+Twi,Akyem,AKAN_ASANTE,7,-1,0,0,1,1,5,3,2,2,1,4,2,1,1,Africa
+Twi,Ashanti,TWI_ASANTE,7,-2,0,0,1,1,5,3,2,2,1,4,2,1,1,Africa
+Twi,Fante,TWI_FANTE,6,-1,0,0,1,1,6,3,2,2,1,4,2,1,1,Africa
+Tzeltal,Tzeltal,TZELTAL_BACHAJON,17,-92,0,0,1,1,2,6,2,2,2,5,NA,NA,1,Middle America and the Caribbean
+Ulithi,Ulithians,ULITHIAN,10.02,139.79,0,0,2,2,1,3,2,2,2,1,0,0,1,Oceania
+Uru,Uru,UCHUMATAQU,-16,-69,0,0,1,1,2,5,1,1,6,1,NA,NA,1,South America
+Ute,Southern Ute,SOUTHERN_PAIUTE,38,-109,0,0,1,1,2,1,1,1,6,1,1,NA,1,North America
+Uttar,Uttar Pradesh,BHOIPURI,26,83,0,0,1,1,2,7,4,4,4,4,NA,NA,5,Asia
+Vedda,Vedda,VEDDA,8,81,0,0,2,2,1,7,2,2,3,1,0,0,1,Asia
+Vietnam,Annamese,VIETNAMESE,17,107,1,1,1,1,6,5,2,2,3,5,0,0,4,Asia
+Warao,Warao,WARAO,9,-62,0,0,1,1,3,1,2,2,2,1,2,1,1,South America
+West Punjabi,Punjabi,WESTERN_PANJABI_SHAHPUR,32,73,0,0,2,2,1,7,3,3,7,4,NA,NA,2,Asia
+Western,Western Apache,SAN_CARLOS,34,-110,0,0,1,1,2,5,2,2,3,1,2,NA,1,North America
+Winnebago/Ho-Chunk,Ho Chunk,WINNEBAGO,44,-88,0,0,1,1,2,NA,2,2,2,1,NA,NA,1,North America
+Wogeo,Wogeo,WOGEO,-3.24,144.1,0,0,1,1,6,7,4,4,4,1,2,1,1,Oceania
+Woleai,Ifaluk,WOLEAIAN,7.25,144.46,0,0,2,2,1,3,1,1,6,1,0,0,3,Oceania
+Wolof,Wolof,WOLOF,15,-17,0,0,1,1,5,5,2,2,1,5,NA,NA,2,Africa
+Xavante,Shavante,XAVANTE,-14,-52,0,0,1,1,3,1,2,2,2,1,NA,NA,1,South America
+Xinjiang Uygur Autonomous Region,NA,KALAQIN_Xinjiang_Mongols,43.8256,87.6168,2,2,NA,NA,NA,7,NA,NA,NA,NA,NA,NA,4,Asia
+Xokleng,Aweikoma,XOKLENG,-28,-50,0,0,1,1,6,1,1,1,6,1,NA,NA,1,South America
+Yahgan,Yahgan,YAMANA,-55.02,-68.98,0,0,1,1,2,1,2,2,2,1,1,1,1,South America
+Yakut,Yakut,SAKHA,65,125,0,0,1,1,5,6,4,4,4,2,NA,NA,1,Asia
+Yanoama,Guaica,YANOMAMI,2,-65,0,0,1,1,2,1,1,1,6,1,2,3,1,South America
+Yanoama,Shiriana,NINAM,4,-63,0,0,1,1,2,1,2,2,2,1,2,3,1,South America
+Yanoama,Sanema,SANIMA,4,-66,0,0,1,1,6,1,2,2,2,1,2,3,1,South America
+Yanoama,Yanomami,YANOMAME,2,-65,0,0,1,1,3,1,5,5,5,1,2,3,1,South America
+Yap,Yapese,YAPESE,9.55,138.13,0,0,2,2,1,3,1,1,6,4,2,NA,3,Oceania
+Yemen,Yemeni,YEMEN_SANAANI_ARABIC,15,45,0,0,1,1,6,4,2,2,1,4,NA,NA,2,Middle East
+Yi,Lolo,NUOSU_YI,29,103,0,0,1,1,2,7,2,2,1,4,NA,NA,1,Asia
+Yokuts,Southern Valley Yokuts,YOKUTS_TINLINNEH,36,-120,0,0,1,1,2,1,1,1,6,2,2,1,1,North America
+Yokuts,Wukchumni,YOKUTS_TINLINNEH_Wukchumni,36,-119,0,0,1,1,2,1,1,1,6,2,2,1,1,North America
+Yokuts,Northern Foothill Yokuts,YOKUTS_TINLINNEH_Northern_Foothill_Yokuts,36,-120,0,0,1,1,5,1,1,1,6,2,2,1,1,North America
+Yoruba,Egba,YORUBA,7,3,0,0,1,1,6,7,2,2,1,4,1,NA,1,Africa
+Yoruba,Ekiti,YORUBA_2,8,5,0,0,1,1,6,6,2,2,1,4,1,NA,1,Africa
+Yoruba,Ife,IFE,7,5,0,0,1,1,6,6,2,2,1,4,1,NA,1,Africa
+Yoruba,Oyo Yoruba,YORUBA_3,8,4,0,0,1,1,5,6,2,2,1,5,1,NA,1,Africa
+Yucatec Maya,Yucatec Maya,MAYA_YUCATAN,18,-90,0,0,2,2,1,6,2,2,2,5,0,0,1,Middle America and the Caribbean
+Yukaghir,Yukaghir,NORTHERN_YUKAGHIR,70,145,0,0,1,1,2,1,2,2,2,1,2,NA,3,Asia
+Yuki,Coast Yuki,YUKI,39.34,-123.77,0,0,1,1,5,1,1,1,6,1,2,3,1,North America
+Yuki,Yuki,YUKI_Yuki,40,-123,0,0,1,1,2,1,4,4,4,2,2,3,1,North America
+Yurok,Yurok,YUROK,41,-124,0,0,1,1,6,4,2,2,1,2,NA,NA,1,North America
+Zapotec,Zapotec,ZAPOTEC_YALALAG,17,-96,0,0,2,2,1,5,1,1,6,NA,NA,NA,3,Middle America and the Caribbean
+Zia Pueblo,Sia,SANTA_ANA_KERES,36,-107,0,0,2,2,1,7,1,1,6,1,NA,NA,3,North America
+Zulu,Zulu,ZULU,-29,31,0,0,1,1,5,7,2,2,1,4,2,1,1,Africa
+Zuni,Zuni,ZUNI,35,-109,0,0,2,2,1,3,1,1,6,1,NA,NA,1,North America

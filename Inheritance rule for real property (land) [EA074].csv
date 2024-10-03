@@ -1,0 +1,857 @@
+comment,confidence,description,domainelement_pk,frequency,id,jsondata,markup_description,name,pk,source,sub_case,value_float,valueset_pk,year
+,,,601,1.0,EA074-Aa1-1,{},,No inher. of real property (1950) [Nyai Nyae region],86191,,Nyai Nyae region,,85483,1950
+,,,601,1.0,EA074-Aa3-1,{},,No inher. of real property (1840) [Gei/Khauan tribe],86193,,Gei/Khauan tribe,,85485,1840
+,,,601,1.0,EA074-Aa4-1,{},,No inher. of real property (1920),86194,,,,85486,1920
+,,,601,1.0,EA074-Aa5-1,{},,"No inher. of real property (1930) [Epulu net-hunters, Ituri forest]",86195,,"Epulu net-hunters, Ituri forest",,85487,1930
+,,,601,1.0,EA074-Aa7-1,{},,No inher. of real property (1910),86196,,,,85488,1910
+,,,601,1.0,EA074-Aa9-1,{},,No inher. of real property (1910) [Hatsa Kindiga Tribe],86197,,Hatsa Kindiga Tribe,,85489,1910
+,,,601,1.0,EA074-Ab1-1,{},,No inher. of real property (1900),86198,,,,85490,1900
+,,,601,1.0,EA074-Ab19-1,{},,No inher. of real property (1910) [with special reference to the Kuanyama],86206,,with special reference to the Kuanyama,,85498,1910
+,,,601,1.0,EA074-Ab4-1,{},,No inher. of real property (1920),86211,,,,85503,1920
+,,,601,1.0,EA074-Ab6-1,{},,No inher. of real property (1900),86213,,,,85505,1900
+,,,601,1.0,EA074-Ab8-1,{},,No inher. of real property (1860) [Basuto],86215,,Basuto,,85507,1860
+,,,601,1.0,EA074-Ac1-1,{},,No inher. of real property (1920),86217,,,,85509,1920
+,,,601,1.0,EA074-Ac4-1,{},,"No inher. of real property (1910) [with special reference to the Bushoong, the central subtribe]",86243,,"with special reference to the Bushoong, the central subtribe",,85535,1910
+,,,601,1.0,EA074-Ad24-1,{},,No inher. of real property (1910),86262,,,,85554,1910
+,,,601,1.0,EA074-Ae3-1,{},,No inher. of real property (1910),86306,,,,85598,1910
+,,,601,1.0,EA074-Af7-1,{},,No inher. of real property (1950),86378,,,,85670,1950
+,,,601,1.0,EA074-Ag20-1,{},,No inher. of real property (1930),86391,,,,85683,1930
+,,,601,1.0,EA074-Ag54-1,{},,No inher. of real property (1910),86424,,,,85716,1910
+,,,601,1.0,EA074-Ah3-1,{},,No inher. of real property (1920) [Tar of Benue Province],86448,,Tar of Benue Province,,85740,1920
+,,,601,1.0,EA074-Aj16-1,{},,No inher. of real property (1930) [with special reference to the Riverain Mondari],86494,,with special reference to the Riverain Mondari,,85786,1930
+,,,601,1.0,EA074-Aj29-1,{},,No inher. of real property (1950),86505,,,,85797,1950
+,,,601,1.0,EA074-Ca35-1,{},,No inher. of real property (1930),86530,,,,85822,1930
+,,,601,1.0,EA074-Ca36-1,{},,No inher. of real property (1860),86531,,,,85823,1860
+,,,601,1.0,EA074-Cb21-1,{},,No inher. of real property (1930),86550,,,,85842,1930
+,,,601,1.0,EA074-Cb24-1,{},,No inher. of real property (1950) [Wodaabe of Niger],86552,,Wodaabe of Niger,,85844,1950
+,,,601,1.0,EA074-Cb8-1,{},,No inher. of real property (1920) [with special reference to the Bororo Fulani of Skoto],86560,,with special reference to the Bororo Fulani of Skoto,,85852,1920
+,,,601,1.0,EA074-Cc6-1,{},,No inher. of real property (1910),86572,,,,85864,1910
+,,,601,1.0,EA074-Ch11-1,{},,No inher. of real property (1955) [Viriatino Village],86608,,Viriatino Village,,85900,1955
+,,,601,1.0,EA074-Ci1-1,{},,No inher. of real property (1920) [with special reference to the Baga Dorbed group],86616,,with special reference to the Baga Dorbed group,,85908,1920
+,,,601,1.0,EA074-Cj2-1,{},,No inher. of real property (1920) [Unspecified],86626,,Unspecified,,85918,1920
+,,,601,1.0,EA074-Ea6-1,{},,No inher. of real property (1958) [Nomadic branch],86640,,Nomadic branch,,85932,1958
+,,,601,1.0,EA074-Eb1-1,{},,No inher. of real property (1910) [Great Horde],86642,,Great Horde,,85934,1910
+,,,601,1.0,EA074-Eb7-1,{},,No inher. of real property (1930),86646,,,,85938,1930
+,,,601,1.0,EA074-Ec1-1,{},,No inher. of real property (1920) [Sakhalin Island],86647,,Sakhalin Island,,85939,1920
+,,,601,1.0,EA074-Ec3-1,{},,No inher. of real property (1900) [Reindeer Division],86649,,Reindeer Division,,85941,1900
+,,,601,1.0,EA074-Ec6-1,{},,No inher. of real property (1850) [Upper Kolyma River],86651,,Upper Kolyma River,,85943,1850
+,,,601,1.0,EA074-Ec8-1,{},,No inher. of real property (1900),86652,,,,85944,1900
+,,,601,1.0,EA074-Eg3-1,{},,No inher. of real property (1938) [Hill Maria],86682,,Hill Maria,,85974,1938
+,,,601,1.0,EA074-Eg4-1,{},,No inher. of real property (1900) [Toda Tribe],86683,,Toda Tribe,,85975,1900
+,,,601,1.0,EA074-Eh1-1,{},,No inher. of real property (1870),86686,,,,85978,1870
+,,,601,1.0,EA074-Eh5-1,{},,No inher. of real property (1890) [Car Nicobar of North Islands],86690,,Car Nicobar of North Islands,,85982,1890
+,,,601,1.0,EA074-Ei1-1,{},,No inher. of real property (1900) [Rengsanggr],86694,,Rengsanggr,,85986,1900
+,,,601,1.0,EA074-Ej1-1,{},,"No inher. of real property (1940) [Lamet Tribe, Northwestern Laos]",86709,,"Lamet Tribe, Northwestern Laos",,86001,1940
+,,,601,1.0,EA074-Ej14-1,{},,No inher. of real property (1960) [with special reference to the eastern Semai],86712,,with special reference to the eastern Semai,,86004,1960
+,,,601,1.0,EA074-Ej3-1,{},,No inher. of real property (1920) [Jehai Group or subtribe],86714,,Jehai Group or subtribe,,86006,1920
+,,,601,1.0,EA074-Ia4-1,{},,No inher. of real property (1950) [with special reference to the Eastern Subanun],86727,,with special reference to the Eastern Subanun,,86019,1950
+,,,601,1.0,EA074-Ia5-1,{},,No inher. of real property (1950),86728,,,,86020,1950
+,,,601,1.0,EA074-Ib6-1,{},,No inher. of real property (1920),86738,,,,86030,1920
+"Inheritance by widows, then daughters",,,601,1.0,EA074-Ic3-1,{},,No inher. of real property (1950) [with special reference to the Mountain Belu],86742,,with special reference to the Mountain Belu,,86034,1950
+,,,601,1.0,EA074-Id1-1,{},,No inher. of real property (1900) [Alice Springs and environs],86748,,Alice Springs and environs,,86040,1900
+,,,601,1.0,EA074-Id10-1,{},,No inher. of real property (1930),86749,,,,86041,1930
+,,,601,1.0,EA074-Id11-1,{},,No inher. of real property (1950),86750,,,,86042,1950
+,,,601,1.0,EA074-Id13-1,{},,No inher. of real property (1930),86751,,,,86043,1930
+,,,601,1.0,EA074-Id2-1,{},,No inher. of real property (1930),86752,,,,86044,1930
+,,,601,1.0,EA074-Id3-1,{},,No inher. of real property (1920) [Tiwi Tribe: Melville Island],86753,,Tiwi Tribe: Melville Island,,86045,1920
+,,,601,1.0,EA074-Id4-1,{},,No inher. of real property (1900),86754,,,,86046,1900
+,,,601,1.0,EA074-Id5-1,{},,No inher. of real property (1910),86755,,,,86047,1910
+,,,601,1.0,EA074-Id6-1,{},,No inher. of real property (1920) [with special reference to the Archer River group],86756,,with special reference to the Archer River group,,86048,1920
+,,,601,1.0,EA074-Id8-1,{},,No inher. of real property (1830),86757,,,,86049,1830
+,,,601,1.0,EA074-Id9-1,{},,No inher. of real property (1910),86758,,,,86050,1910
+,,,601,1.0,EA074-Ie27-1,{},,No inher. of real property (1910),86773,,,,86065,1910
+,,,601,1.0,EA074-Ie5-1,{},,No inher. of real property (1930),86780,,,,86072,1930
+,,,601,1.0,EA074-Ig20-1,{},,No inher. of real property (1920) [with special reference to the village of Longgu],86797,,with special reference to the village of Longgu,,86089,1920
+Most of a deceased man's property is plundered by the agnatic kinsmen of his MoBr,,,601,1.0,EA074-Ig9-1,{},,No inher. of real property (1920) [Peri Village],86800,,Peri Village,,86092,1920
+,,,601,1.0,EA074-Ih3-1,{},,No inher. of real property (1950) [Bunlap Village],86803,,Bunlap Village,,86095,1950
+,,,601,1.0,EA074-Na1-1,{},,No inher. of real property (1930),86816,,,,86108,1930
+,,,601,1.0,EA074-Na12-1,{},,No inher. of real property (1950),86818,,,,86110,1950
+,,,601,1.0,EA074-Na13-1,{},,No inher. of real property (1880),86819,,,,86111,1880
+,,,601,1.0,EA074-Na14-1,{},,No inher. of real property (1880),86820,,,,86112,1880
+,,,601,1.0,EA074-Na16-1,{},,No inher. of real property (1860),86821,,,,86113,1860
+,,,601,1.0,EA074-Na17-1,{},,"No inher. of real property (1860) [Lynx Point band, Fort Simpson]",86822,,"Lynx Point band, Fort Simpson",,86114,1860
+,,,601,1.0,EA074-Na19-1,{},,No inher. of real property (1880) [with special reference to the Hwitsowitenne],86823,,with special reference to the Hwitsowitenne,,86115,1880
+,,,601,1.0,EA074-Na2-1,{},,No inher. of real property (1880),86824,,,,86116,1880
+,,,601,1.0,EA074-Na21-1,{},,No inher. of real property (1900),86826,,,,86118,1900
+,,,601,1.0,EA074-Na22-1,{},,No inher. of real property (1920) [with special reference to the Aivilingmiut and Iglulingmiut],86827,,with special reference to the Aivilingmiut and Iglulingmiut,,86119,1920
+,,,601,1.0,EA074-Na23-1,{},,No inher. of real property (1890) [with special reference to the Koksoagmiu],86828,,with special reference to the Koksoagmiu,,86120,1890
+,,,601,1.0,EA074-Na24-1,{},,No inher. of real property (1880),86829,,,,86121,1880
+,,,601,1.0,EA074-Na26-1,{},,No inher. of real property (1870) [with special reference to the Iliamna],86830,,with special reference to the Iliamna,,86122,1870
+,,,601,1.0,EA074-Na28-1,{},,No inher. of real property (1880),86831,,,,86123,1880
+,,,601,1.0,EA074-Na29-1,{},,No inher. of real property (1850),86832,,,,86124,1850
+,,,601,1.0,EA074-Na3-1,{},,No inher. of real property (1920) [Coronation Gulf],86833,,Coronation Gulf,,86125,1920
+,,,601,1.0,EA074-Na30-1,{},,No inher. of real property (1880),86834,,,,86126,1880
+,,,601,1.0,EA074-Na39-1,{},,No inher. of real property (1870) [with special reference to the Kitchibuan of Parry Island],86838,,with special reference to the Kitchibuan of Parry Island,,86130,1870
+,,,601,1.0,EA074-Na5-1,{},,"No inher. of real property (1890) [with special reference to the northern bands (Barren Ground, Ungava, White Whale River)]",86839,,"with special reference to the northern bands (Barren Ground, Ungava, White Whale River)",,86131,1890
+,,,601,1.0,EA074-Na6-1,{},,No inher. of real property (1930),86840,,,,86132,1930
+,,,601,1.0,EA074-Na8-1,{},,No inher. of real property (1880) [Shageluk Village],86842,,Shageluk Village,,86134,1880
+,,,601,1.0,EA074-Na9-1,{},,No inher. of real property (1830) [Unalaska Branch (Eastern Aleut)],86843,,Unalaska Branch (Eastern Aleut),,86135,1830
+,,,601,1.0,EA074-Nb2-1,{},,No inher. of real property (1850) [Twana Tribe],86846,,Twana Tribe,,86138,1850
+,,,601,1.0,EA074-Nb21-1,{},,No inher. of real property (1860),86847,,,,86139,1860
+,,,601,1.0,EA074-Nb24-1,{},,No inher. of real property (1860),86848,,,,86140,1860
+,,,601,1.0,EA074-Nb25-1,{},,No inher. of real property (1860),86849,,,,86141,1860
+,,,601,1.0,EA074-Nb27-1,{},,No inher. of real property (1880) [with special reference to the Tait],86850,,with special reference to the Tait,,86142,1880
+,,,601,1.0,EA074-Nb33-1,{},,No inher. of real property (1860),86852,,,,86144,1860
+,,,601,1.0,EA074-Nb37-1,{},,No inher. of real property (1860),86853,,,,86145,1860
+,,,601,1.0,EA074-Nb39-1,{},,No inher. of real property (1860),86854,,,,86146,1860
+,,,601,1.0,EA074-Nb6-1,{},,No inher. of real property (1870),86855,,,,86147,1870
+,,,601,1.0,EA074-Nb8-1,{},,No inher. of real property (1880),86857,,,,86149,1880
+,,,601,1.0,EA074-Nb9-1,{},,"No inher. of real property (1880) [Central group, lower B.C. River]",86858,,"Central group, lower B.C. River",,86150,1880
+,,,601,1.0,EA074-Nc12-1,{},,No inher. of real property (1850) [with special reference to the Northeastern Mountain Maidu],86860,,with special reference to the Northeastern Mountain Maidu,,86152,1850
+,,,601,1.0,EA074-Nc14-1,{},,No inher. of real property (1860) [with special reference to the northeastern Wintu],86861,,with special reference to the northeastern Wintu,,86153,1860
+,,,601,1.0,EA074-Nc15-1,{},,No inher. of real property (1860),86862,,,,86154,1860
+,,,601,1.0,EA074-Nc17-1,{},,No inher. of real property (1860) [with special reference to those of Kalekau],86863,,with special reference to those of Kalekau,,86155,1860
+,,,601,1.0,EA074-Nc18-1,{},,"No inher. of real property (1860) [Clear Lake, Village of Cignon]",86864,,"Clear Lake, Village of Cignon",,86156,1860
+,,,601,1.0,EA074-Nc19-1,{},,No inher. of real property (1860) [with special reference to those near Santa Rosa],86865,,with special reference to those near Santa Rosa,,86157,1860
+,,,601,1.0,EA074-Nc2-1,{},,No inher. of real property (1850),86866,,,,86158,1850
+,,,601,1.0,EA074-Nc20-1,{},,No inher. of real property (1860),86867,,,,86159,1860
+,,,601,1.0,EA074-Nc21-1,{},,No inher. of real property (1860),86868,,,,86160,1860
+,,,601,1.0,EA074-Nc23-1,{},,No inher. of real property (1870),86869,,,,86161,1870
+,,,601,1.0,EA074-Nc24-1,{},,No inher. of real property (1860) [Tulare Lake],86870,,Tulare Lake,,86162,1860
+,,,601,1.0,EA074-Nc26-1,{},,No inher. of real property (1770),86871,,,,86163,1770
+,,,601,1.0,EA074-Nc3-1,{},,No inher. of real property (1850) [with special reference to those of the Northern Foothills],86872,,with special reference to those of the Northern Foothills,,86164,1850
+,,,601,1.0,EA074-Nc5-1,{},,No inher. of real property (1850) [with special reference to the Central Sierra group],86874,,with special reference to the Central Sierra group,,86166,1850
+,,,601,1.0,EA074-Nc6-1,{},,No inher. of real property (1850) [with special reference to the Southern Diegueno],86875,,with special reference to the Southern Diegueno,,86167,1850
+,,,601,1.0,EA074-Nc7-1,{},,No inher. of real property (1850),86876,,,,86168,1850
+,,,601,1.0,EA074-Nc8-1,{},,No inher. of real property (1860) [Klamath Tribe],86877,,Klamath Tribe,,86169,1860
+,,,601,1.0,EA074-Nc9-1,{},,No inher. of real property (1860),86878,,,,86170,1860
+,,,601,1.0,EA074-Nd1-1,{},,No inher. of real property (1850),86879,,,,86171,1850
+,,,601,1.0,EA074-Nd11-1,{},,No inher. of real property (1850) [with special reference to the southeastern Shuswap],86880,,with special reference to the southeastern Shuswap,,86172,1850
+,,,601,1.0,EA074-Nd12-1,{},,No inher. of real property (1860),86881,,,,86173,1860
+,,,601,1.0,EA074-Nd14-1,{},,No inher. of real property (1860),86882,,,,86174,1860
+,,,601,1.0,EA074-Nd15-1,{},,No inher. of real property (1880),86883,,,,86175,1880
+,,,601,1.0,EA074-Nd2-1,{},,No inher. of real property (1860),86884,,,,86176,1860
+,,,601,1.0,EA074-Nd20-1,{},,No inher. of real property (1850),86885,,,,86177,1850
+,,,601,1.0,EA074-Nd22-1,{},,No inher. of real property (1870) [Wadadika of Harney Valley],86886,,Wadadika of Harney Valley,,86178,1870
+,,,601,1.0,EA074-Nd24-1,{},,No inher. of real property (1870),86887,,,,86179,1870
+,,,601,1.0,EA074-Nd26-1,{},,No inher. of real property (1870),86888,,,,86180,1870
+,,,601,1.0,EA074-Nd27-1,{},,No inher. of real property (1860),86889,,,,86181,1860
+,,,601,1.0,EA074-Nd29-1,{},,No inher. of real property (1870) [including the Deep Springs Valley and Fish Lake Valley groups],86890,,including the Deep Springs Valley and Fish Lake Valley groups,,86182,1870
+,,,601,1.0,EA074-Nd30-1,{},,No inher. of real property (1870),86892,,,,86184,1870
+,,,601,1.0,EA074-Nd32-1,{},,No inher. of real property (1850) [with special reference to those of Saline Valley],86893,,with special reference to those of Saline Valley,,86185,1850
+,,,601,1.0,EA074-Nd33-1,{},,No inher. of real property (1870) [including the Belted Range group],86894,,including the Belted Range group,,86186,1870
+,,,601,1.0,EA074-Nd4-1,{},,No inher. of real property (1870),86895,,,,86187,1870
+,,,601,1.0,EA074-Nd40-1,{},,No inher. of real property (1870),86896,,,,86188,1870
+,,,601,1.0,EA074-Nd43-1,{},,No inher. of real property (1860),86897,,,,86189,1860
+,,,601,1.0,EA074-Nd45-1,{},,No inher. of real property (1860),86898,,,,86190,1860
+,,,601,1.0,EA074-Nd46-1,{},,No inher. of real property (1860),86899,,,,86191,1860
+,,,601,1.0,EA074-Nd47-1,{},,No inher. of real property (1850),86900,,,,86192,1850
+,,,601,1.0,EA074-Nd48-1,{},,No inher. of real property (1860) [with special reference to those of Deep Creek],86901,,with special reference to those of Deep Creek,,86193,1860
+,,,601,1.0,EA074-Nd49-1,{},,No inher. of real property (1860) [including the Kaiparowits band],86902,,including the Kaiparowits band,,86194,1860
+,,,601,1.0,EA074-Nd5-1,{},,No inher. of real property (1870),86903,,,,86195,1870
+,,,601,1.0,EA074-Nd57-1,{},,No inher. of real property (1860),86908,,,,86200,1860
+,,,601,1.0,EA074-Nd58-1,{},,No inher. of real property (1860),86909,,,,86201,1860
+,,,601,1.0,EA074-Nd59-1,{},,No inher. of real property (1860),86910,,,,86202,1860
+,,,601,1.0,EA074-Nd6-1,{},,No inher. of real property (1850),86911,,,,86203,1850
+,,,601,1.0,EA074-Nd60-1,{},,No inher. of real property (1860),86912,,,,86204,1860
+,,,601,1.0,EA074-Nd61-1,{},,No inher. of real property (1860),86913,,,,86205,1860
+,,,601,1.0,EA074-Nd62-1,{},,No inher. of real property (1860),86914,,,,86206,1860
+,,,601,1.0,EA074-Nd63-1,{},,No inher. of real property (1860) [with special reference to the Eastern Bannock],86915,,with special reference to the Eastern Bannock,,86207,1860
+,,,601,1.0,EA074-Nd64-1,{},,No inher. of real property (1860) [with special reference to the Kucundika],86916,,with special reference to the Kucundika,,86208,1860
+,,,601,1.0,EA074-Nd66-1,{},,No inher. of real property (1870) [with exdlusive reference to the Northeastern Yavapai],86917,,with exdlusive reference to the Northeastern Yavapai,,86209,1870
+"But eagle nests were ""transmitted from father to son""",,,601,1.0,EA074-Nd67-1,{},,No inher. of real property (1870),86918,,,,86210,1870
+,,,601,1.0,EA074-Nd7-1,{},,No inher. of real property (1880) [Lower or eastern branch],86919,,Lower or eastern branch,,86211,1880
+,,,601,1.0,EA074-Nd9-1,{},,No inher. of real property (1860),86921,,,,86213,1860
+,,,601,1.0,EA074-Ne1-1,{},,No inher. of real property (1880) [Gros Ventre Tribe],86922,,Gros Ventre Tribe,,86214,1880
+,,,601,1.0,EA074-Ne11-1,{},,No inher. of real property (1870),86923,,,,86215,1870
+,,,601,1.0,EA074-Ne12-1,{},,No inher. of real property (1850),86924,,,,86216,1850
+,,,601,1.0,EA074-Ne13-1,{},,No inher. of real property (1850),86925,,,,86217,1850
+,,,601,1.0,EA074-Ne14-1,{},,No inher. of real property (1850),86926,,,,86218,1850
+,,,601,1.0,EA074-Ne16-1,{},,No inher. of real property (1800),86927,,,,86219,1800
+,,,601,1.0,EA074-Ne17-1,{},,No inher. of real property (1860),86928,,,,86220,1860
+,,,601,1.0,EA074-Ne18-1,{},,No inher. of real property (1850),86929,,,,86221,1850
+,,,601,1.0,EA074-Ne19-1,{},,No inher. of real property (1850),86930,,,,86222,1850
+,,,601,1.0,EA074-Ne2-1,{},,No inher. of real property (1870),86931,,,,86223,1870
+,,,601,1.0,EA074-Ne3-1,{},,No inher. of real property (1870) [Comanche Tribe],86932,,Comanche Tribe,,86224,1870
+,,,601,1.0,EA074-Ne4-1,{},,No inher. of real property (1870),86933,,,,86225,1870
+,,,601,1.0,EA074-Ne5-1,{},,No inher. of real property (1860),86934,,,,86226,1860
+,,,601,1.0,EA074-Ne7-1,{},,No inher. of real property (1880),86935,,,,86227,1880
+,,,601,1.0,EA074-Ne8-1,{},,No inher. of real property (1870),86936,,,,86228,1870
+,,,601,1.0,EA074-Ne9-1,{},,No inher. of real property (1860),86937,,,,86229,1860
+,,,601,1.0,EA074-Nf13-1,{},,No inher. of real property (1820) [with special reference to the Kiskopotha band],86938,,with special reference to the Kiskopotha band,,86230,1820
+,,,601,1.0,EA074-Nf6-1,{},,No inher. of real property (1867) [Skidi Band or subtribe],86940,,Skidi Band or subtribe,,86232,1867
+,,,601,1.0,EA074-Nh1-1,{},,No inher. of real property (1880) [Central band],86945,,Central band,,86237,1880
+,,,601,1.0,EA074-Nh19-1,{},,No inher. of real property (1850),86953,,,,86245,1850
+,,,601,1.0,EA074-Nh20-1,{},,No inher. of real property (1860),86955,,,,86247,1860
+,,,601,1.0,EA074-Nh22-1,{},,No inher. of real property (1860),86956,,,,86248,1860
+,,,601,1.0,EA074-Nh23-1,{},,No inher. of real property (1870),86957,,,,86249,1870
+,,,601,1.0,EA074-Nh24-1,{},,No inher. of real property (1880),86958,,,,86250,1880
+,,,601,1.0,EA074-Ni4-1,{},,No inher. of real property (1900),86965,,,,86257,1900
+,,,601,1.0,EA074-Ni5-1,{},,No inher. of real property (1570),86966,,,,86258,1570
+,,,601,1.0,EA074-Sa5-1,{},,No inher. of real property (1950),86978,,,,86270,1950
+,,,601,1.0,EA074-Sb4-1,{},,No inher. of real property (1950) [with special reference to the Cachama group],86982,,with special reference to the Cachama group,,86274,1950
+,,,601,1.0,EA074-Sc1-1,{},,No inher. of real property (1950),86984,,,,86276,1950
+,,,601,1.0,EA074-Sc18-1,{},,No inher. of real property (1960),86985,,,,86277,1960
+,,,601,1.0,EA074-Sc4-1,{},,No inher. of real property (1950) [with special reference to the non-agricultural groups],86987,,with special reference to the non-agricultural groups,,86279,1950
+,,,601,1.0,EA074-Sd1-1,{},,No inher. of real property (1950) [Cabrura village],86988,,Cabrura village,,86280,1950
+,,,601,1.0,EA074-Sd9-1,{},,No inher. of real property (1965) [Shamatari Tribe; Bisaasi-teri],86989,,Shamatari Tribe; Bisaasi-teri,,86281,1965
+,,,601,1.0,EA074-Se1-1,{},,No inher. of real property (1940) [Vicinity of the Rio Blanco],86990,,Vicinity of the Rio Blanco,,86282,1940
+,,,601,1.0,EA074-Se2-1,{},,No inher. of real property (1940),86991,,,,86283,1940
+,,,601,1.0,EA074-Se3-1,{},,No inher. of real property (1930),86992,,,,86284,1930
+,,,601,1.0,EA074-Se4-1,{},,No inher. of real property (1940),86993,,,,86285,1940
+,,,601,1.0,EA074-Se5-1,{},,No inher. of real property (1940) [Village on Caduiari River],86994,,Village on Caduiari River,,86286,1940
+,,,601,1.0,EA074-Se8-1,{},,No inher. of real property (1950) [Upper Inuya River],86995,,Upper Inuya River,,86287,1950
+,,,601,1.0,EA074-Se9-1,{},,No inher. of real property (1920),86996,,,,86288,1920
+,,,601,1.0,EA074-Sf1-1,{},,No inher. of real property (1530) [City and environs of Cuzco],86997,,City and environs of Cuzco,,86289,1530
+,,,601,1.0,EA074-Sf5-1,{},,No inher. of real property (1900),86999,,,,86291,1900
+,,,601,1.0,EA074-Sg1-1,{},,No inher. of real property (1870) [Eastern and central],87001,,Eastern and central,,86293,1870
+,,,601,1.0,EA074-Sg3-1,{},,No inher. of real property (1880) [with special reference to the Shelknam],87003,,with special reference to the Shelknam,,86295,1880
+,,,601,1.0,EA074-Sg4-1,{},,No inher. of real property (1870) [Equestrian],87004,,Equestrian,,86296,1870
+,,,601,1.0,EA074-Sg5-1,{},,No inher. of real property (1900) [with special reference to the southern bands],87005,,with special reference to the southern bands,,86297,1900
+,,,601,1.0,EA074-Sh1-1,{},,No inher. of real property (1860),87006,,,,86298,1860
+,,,601,1.0,EA074-Sh3-1,{},,No inher. of real property (1800) [Those in contact with mission],87007,,Those in contact with mission,,86299,1800
+,,,601,1.0,EA074-Sh5-1,{},,No inher. of real property (1910),87008,,,,86300,1910
+,,,601,1.0,EA074-Sh8-1,{},,No inher. of real property (1964) [with special reference to those of the Argentine Chaco],87010,,with special reference to those of the Argentine Chaco,,86302,1964
+,,,601,1.0,EA074-Sh9-1,{},,No inher. of real property (1890) [Those in contact with mission],87011,,Those in contact with mission,,86303,1890
+,,,601,1.0,EA074-Si2-1,{},,No inher. of real property (1930) [Village of Vanivani],87012,,Village of Vanivani,,86304,1930
+,,,601,1.0,EA074-Si4-1,{},,No inher. of real property (1940) [Cocozu Group],87013,,Cocozu Group,,86305,1940
+,,,601,1.0,EA074-Si5-1,{},,No inher. of real property (1940),87014,,,,86306,1940
+,,,601,1.0,EA074-Sj11-1,{},,No inher. of real property (1958) [Village of Sao Domingo],87015,,Village of Sao Domingo,,86307,1958
+,,,601,1.0,EA074-Sj3-1,{},,No inher. of real property (1910) [Duque de Caxias Reservation],87016,,Duque de Caxias Reservation,,86308,1910
+,,,601,1.0,EA074-Sj4-1,{},,No inher. of real property (1930) [Ramcocamecra or Canella],87017,,Ramcocamecra or Canella,,86309,1930
+,,,601,1.0,EA074-Sj5-1,{},,No inher. of real property (1880) [Naknenuk subtribe],87018,,Naknenuk subtribe,,86310,1880
+,,,601,1.0,EA074-Sj6-1,{},,No inher. of real property (1930) [with special reference to the Guajajara subgroup],87019,,with special reference to the Guajajara subgroup,,86311,1930
+,,,601,1.0,EA074-ch24-1,{},,No inher. of real property (1847) [with special reference to the Northwest Courland],87032,,with special reference to the Northwest Courland,,86324,1847
+,,,601,1.0,EA074-ec12-1,{},,No inher. of real property (1930) [Avam (Western) group],87037,,Avam (Western) group,,86329,1930
+,,,601,1.0,EA074-ec13-1,{},,No inher. of real property (1710) [those of Eastern Kamchatka],87038,,those of Eastern Kamchatka,,86330,1710
+,,,601,1.0,EA074-ec14-1,{},,No inher. of real property (1880) [those of South-Eastern Chukotka],87039,,those of South-Eastern Chukotka,,86331,1880
+,,,601,1.0,EA074-ec15-1,{},,No inher. of real property (1880) [Middle Northern Sos'va group],87040,,Middle Northern Sos'va group,,86332,1880
+,,,601,1.0,EA074-ec16-1,{},,No inher. of real property (1890) [Barguzin group],87041,,Barguzin group,,86333,1890
+,,,601,1.0,EA074-ec17-1,{},,No inher. of real property (1890) [Upper Amgun' River group],87042,,Upper Amgun' River group,,86334,1890
+,,,601,1.0,EA074-ec18-1,{},,No inher. of real property (1890) [Ulch people as a whole],87043,,Ulch people as a whole,,86335,1890
+,,,601,1.0,EA074-ec19-1,{},,No inher. of real property (1890) [Northern group],87044,,Northern group,,86336,1890
+,,,601,1.0,EA074-ec20-1,{},,No inher. of real property (1890) [Oroch people as a whole],87045,,Oroch people as a whole,,86337,1890
+,,,601,1.0,EA074-ec21-1,{},,No inher. of real property (1890) [Hor River group],87046,,Hor River group,,86338,1890
+,,,602,1.0,EA074-Ab7-1,{},,"Matrilineal by sister's sons (1920) [Banianeka, Munyaneka, Ovanyaneka, Vanyaneka]",86214,,"Banianeka, Munyaneka, Ovanyaneka, Vanyaneka",,85506,1920
+,,,602,1.0,EA074-Ac12-1,{},,Matrilineal by sister's sons (1920),86219,,,,85511,1920
+,,,602,1.0,EA074-Ac13-1,{},,Matrilineal by sister's sons (1950),86220,,,,85512,1950
+,,,602,1.0,EA074-Ac15-1,{},,Matrilineal by sister's sons (1900),86222,,,,85514,1900
+"Entries follows Decker; Torday reports 'matrilineal by heirs' (EA074 code ""3"") and 'primogeniture' (EA075 code ""4"")",,,602,1.0,EA074-Ac21-1,{},,Matrilineal by sister's sons (1910),86226,,,,85518,1910
+,,,602,1.0,EA074-Ac27-1,{},,Matrilineal by sister's sons (1930),86229,,,,85521,1930
+,,,602,1.0,EA074-Ac39-1,{},,Matrilineal by sister's sons (1920),86242,,,,85534,1920
+,,,602,1.0,EA074-Ac42-1,{},,Matrilineal by sister's sons (1900),86245,,,,85537,1900
+,,,602,1.0,EA074-Ad14-1,{},,Matrilineal by sister's sons (1930) [Morogoro District],86253,,Morogoro District,,85545,1930
+,,,602,1.0,EA074-Ad27-1,{},,Matrilineal by sister's sons (1880),86265,,,,85557,1880
+,,,602,1.0,EA074-Ad28-1,{},,Matrilineal by sister's sons (1880),86266,,,,85558,1880
+,,,602,1.0,EA074-Ad31-1,{},,Matrilineal by sister's sons (1910),86270,,,,85562,1910
+,,,602,1.0,EA074-Ae54-1,{},,Matrilineal by sister's sons (1950),86329,,,,85621,1950
+"But Kobben, as opposed to the earlier sources, reports 'matrilineal by heirs' (EA074 code ""3"") and 'primogeniture' (EA075 code ""4"")",,,602,1.0,EA074-Af39-1,{},,Matrilineal by sister's sons (1900) [with special reference to the Ndenie],86359,,with special reference to the Ndenie,,85651,1900
+,,,602,1.0,EA074-Ah23-1,{},,Matrilineal by sister's sons (1920),86442,,,,85734,1920
+"Entry follows Meek; another source reports 'matrilineal by heirs' (EA074 code ""3"") and 'primogeniture' (EA075 code ""4"")",,,602,1.0,EA074-Ah26-1,{},,Matrilineal by sister's sons (1920),86444,,,,85736,1920
+"Entry follows Pollera; Munzinger reports 'matrilineal by heirs' (EA074 code ""3"") and 'primogeniture' (EA075 code ""4"")",,,602,1.0,EA074-Ca32-1,{},,Matrilineal by sister's sons (1860),86528,,,,85820,1860
+"But Munzinger reports 'matrilineal by heirs' (EA074 code ""3"") and 'primogeniture' (EA075 code ""4"")",,,602,1.0,EA074-Ca33-1,{},,Matrilineal by sister's sons (1860),86529,,,,85821,1860
+"Entry follows Rodd; Joubert reports 'inheritance by children, daughters receiving less' (EA074 code ""4"") with 'equal distribution' (EA075 code ""1"")",,,602,1.0,EA074-Cc10-1,{},,Matrilineal by sister's sons (1900),86563,,,,85855,1900
+,,,602,1.0,EA074-Cc11-1,{},,Matrilineal by sister's sons (1860),86564,,,,85856,1860
+,,,602,1.0,EA074-Cc13-1,{},,Matrilineal by sister's sons (1920),86565,,,,85857,1920
+,,,602,1.0,EA074-Cc9-1,{},,Matrilineal by sister's sons (1920) [Ahaggaren tribe],86573,,Ahaggaren tribe,,85865,1920
+,,,602,1.0,EA074-Cd11-1,{},,Matrilineal by sister's sons (1500),86576,,,,85868,1500
+,,,602,1.0,EA074-Ia9-1,{},,Matrilineal by sister's sons (1930) [with special reference to the southern Ami],86732,,with special reference to the southern Ami,,86024,1930
+,,,602,1.0,EA074-Ie28-1,{},,Matrilineal by sister's sons (1940),86774,,,,86066,1940
+,,,602,1.0,EA074-Ig13-1,{},,Matrilineal by sister's sons (1900),86794,,,,86086,1900
+,,,602,1.0,EA074-Ig14-1,{},,Matrilineal by sister's sons (1900),86795,,,,86087,1900
+,,,602,1.0,EA074-Ig2-1,{},,Matrilineal by sister's sons (1910) [Kiriwina Island],86796,,Kiriwina Island,,86088,1910
+"Matrilineal, but the exact distribution is not reported",,,602,1.0,EA074-Ig5-1,{},,Matrilineal by sister's sons (1920),86798,,,,86090,1920
+,,,602,1.0,EA074-Ih1-1,{},,Matrilineal by sister's sons (1890),86801,,,,86093,1890
+Entry follows Swanton; Brinton reports succession and inheritance from Fa to So,,,602,1.0,EA074-Ng8-1,{},,Matrilineal by sister's sons (1560),86943,,,,86235,1560
+,,,603,1.0,EA074-Ac10-1,{},,Matrilineal by heirs (1920),86218,,,,85510,1920
+"Entry follows Mertens and Van Wing; Ihle and Van de Velde report 'matrilineal by sister's son(s)' (EA074 code ""2"") and 'primogeniture' (EA075 code ""4"")",,,603,1.0,EA074-Ac14-1,{},,Matrilineal by heirs (1900),86221,,,,85513,1900
+,,,603,1.0,EA074-Ac17-1,{},,Matrilineal by heirs (1910) [Feshi territory lineage center],86223,,Feshi territory lineage center,,85515,1910
+,,,603,1.0,EA074-Ac19-1,{},,Matrilineal by heirs (1880),86224,,,,85516,1880
+,,,603,1.0,EA074-Ac20-1,{},,Matrilineal by heirs (1920),86225,,,,85517,1920
+,,,603,1.0,EA074-Ac22-1,{},,Matrilineal by heirs (1930),86227,,,,85519,1930
+All property escheats to the head of the matrilineage,,,603,1.0,EA074-Ac25-1,{},,Matrilineal by heirs (1930) [with reference to the tribe of this name on the Luniunga and Gobari rivers],86228,,with reference to the tribe of this name on the Luniunga and Gobari rivers,,85520,1930
+"Alternatively 'patrilineal by heirs' (EA074 code ""6"") and 'primogeniture' (EA075 code ""4"")",,,603,1.0,EA074-Ac28-1,{},,Matrilineal by heirs (1930),86230,,,,85522,1930
+,,,603,1.0,EA074-Ac29-1,{},,Matrilineal by heirs (1930),86231,,,,85523,1930
+,,,603,1.0,EA074-Ac3-1,{},,Matrilineal by heirs (1900) [Zambia branch],86232,,Zambia branch,,85524,1900
+,,,603,1.0,EA074-Ac30-1,{},,Matrilineal by heirs (1940),86233,,,,85525,1940
+,,,603,1.0,EA074-Ac31-1,{},,Matrilineal by heirs (1910),86234,,,,85526,1910
+,,,603,1.0,EA074-Ac32-1,{},,Matrilineal by heirs (1920),86235,,,,85527,1920
+,,,603,1.0,EA074-Ac33-1,{},,Matrilineal by heirs (1940),86236,,,,85528,1940
+,,,603,1.0,EA074-Ac34-1,{},,Matrilineal by heirs (1940),86237,,,,85529,1940
+,,,603,1.0,EA074-Ac35-1,{},,Matrilineal by heirs (1900),86238,,,,85530,1900
+,,,603,1.0,EA074-Ac37-1,{},,Matrilineal by heirs (1950),86240,,,,85532,1950
+,,,603,1.0,EA074-Ac38-1,{},,Matrilineal by heirs (1910),86241,,,,85533,1910
+,,,603,1.0,EA074-Ac40-1,{},,Matrilineal by heirs (1900),86244,,,,85536,1900
+,,,603,1.0,EA074-Ac8-1,{},,Matrilineal by heirs (1930),86246,,,,85538,1930
+,,,603,1.0,EA074-Ad18-1,{},,Matrilineal by heirs (1910),86257,,,,85549,1910
+,,,603,1.0,EA074-Ad25-1,{},,Matrilineal by heirs (1900),86263,,,,85555,1900
+,,,603,1.0,EA074-Ad30-1,{},,Matrilineal by heirs (1890),86269,,,,85561,1890
+,,,603,1.0,EA074-Ae38-1,{},,Matrilineal by heirs (1920),86312,,,,85604,1920
+Entry follows Gil-Delgado; Tessmann reports patrilineal inheritance with matrilineal traces,,,603,1.0,EA074-Ae44-1,{},,Matrilineal by heirs (1920),86319,,,,85611,1920
+,,,603,1.0,EA074-Ae46-1,{},,Matrilineal by heirs (1870),86321,,,,85613,1870
+,,,603,1.0,EA074-Af12-1,{},,Matrilineal by heirs (1930) [with special reference to the Kwahu],86340,,with special reference to the Kwahu,,85632,1930
+,,,603,1.0,EA074-Af3-1,{},,Matrilineal by heirs (1900) [Kumasi State],86351,,Kumasi State,,85643,1900
+,,,603,1.0,EA074-Af38-1,{},,Matrilineal by heirs (1900),86358,,,,85650,1900
+,,,603,1.0,EA074-Af40-1,{},,"Matrilineal by heirs (1890) [with special reference to the Abure (Akapless, Asoko, Esuma)]",86361,,"with special reference to the Abure (Akapless, Asoko, Esuma)",,85653,1890
+,,,603,1.0,EA074-Af41-1,{},,Matrilineal by heirs (1890),86362,,,,85654,1890
+,,,603,1.0,EA074-Af42-1,{},,Matrilineal by heirs (1900),86363,,,,85655,1900
+,,,603,1.0,EA074-Af44-1,{},,Matrilineal by heirs (1900),86365,,,,85657,1900
+,,,603,1.0,EA074-Af45-1,{},,Matrilineal by heirs (1900),86366,,,,85658,1900
+,,,603,1.0,EA074-Af9-1,{},,Matrilineal by heirs (1900),86380,,,,85672,1900
+"Succession and inheritance by a younger brother are specified, but matrilineal rule is inferred from that for descent",,,603,1.0,EA074-Ag18-1,{},,Matrilineal by heirs (1930),86388,,,,85680,1930
+,,,603,1.0,EA074-Ag21-1,{},,Matrilineal by heirs (1910),86392,,,,85684,1910
+,,,603,1.0,EA074-Ag22-1,{},,Matrilineal by heirs (1920) [with special reference to those of Sine],86393,,with special reference to those of Sine,,85685,1920
+,,,603,1.0,EA074-Ag35-1,{},,Matrilineal by heirs (1910),86407,,,,85699,1910
+,,,603,1.0,EA074-Ag39-1,{},,Matrilineal by heirs (1910),86411,,,,85703,1910
+,,,603,1.0,EA074-Ag43-1,{},,Matrilineal by heirs (1920),86415,,,,85707,1920
+,,,603,1.0,EA074-Ag8-1,{},,Matrilineal by heirs (1910) [with special reference to the Coniagui],86427,,with special reference to the Coniagui,,85719,1910
+,,,603,1.0,EA074-Ah29-1,{},,Matrilineal by heirs (1920),86447,,,,85739,1920
+,,,603,1.0,EA074-Ah30-1,{},,Matrilineal by heirs (1920),86449,,,,85741,1920
+,,,603,1.0,EA074-Ei8-1,{},,Matrilineal by heirs (1900) [with special reference to those of the Jaintia Hills],86707,,with special reference to those of the Jaintia Hills,,85999,1900
+Mainly from mother to youngest daughter,,,603,1.0,EA074-Ej11-1,{},,Matrilineal by heirs (1950) [with special reference to the non-Muslim Cham of Vietnam],86710,,with special reference to the non-Muslim Cham of Vietnam,,86002,1950
+,,,603,1.0,EA074-Ej16-1,{},,Matrilineal by heirs (1958) [Inas District],86713,,Inas District,,86005,1958
+Taro land is inherited from Mo to Da,,,603,1.0,EA074-Ib7-1,{},,Matrilineal by heirs (1920) [with special reference to those of North Pageh],86739,,with special reference to those of North Pageh,,86031,1920
+,,,603,1.0,EA074-If1-1,{},,"Matrilineal by heirs (1940) [Ulimang, Badeldaob Island]",86783,,"Ulimang, Badeldaob Island",,86075,1940
+,,,603,1.0,EA074-If17-1,{},,Matrilineal by heirs (1900) [with special reference to the island of Jaluit],86785,,with special reference to the island of Jaluit,,86077,1900
+"Mixed (A man may transmit certain land rights to a son, but others remain within his matrilineage)",,,603,1.0,EA074-If3-1,{},,Matrilineal by heirs (1940) [With special reference to the inhabitants of Majuro],86787,,With special reference to the inhabitants of Majuro,,86079,1940
+"But Bascom reports 'patrilineal by son(s)' (EA074 code ""7"") and 'primogeniture' (EA075 code ""4"") in most districts",,,603,1.0,EA074-If5-1,{},,Matrilineal by heirs (1910),86788,,,,86080,1910
+,,,603,1.0,EA074-If6-1,{},,Matrilineal by heirs (1910) [Island],86789,,Island,,86081,1910
+Matrilineal within lineage,,,603,1.0,EA074-Ig1-1,{},,Matrilineal by heirs (1940) [Northeastern group],86792,,Northeastern group,,86084,1940
+,,,603,1.0,EA074-Nb1-1,{},,Matrilineal by heirs (1890) [Masset Town],86844,,Masset Town,,86136,1890
+,,,603,1.0,EA074-Nb7-1,{},,Matrilineal by heirs (1880),86856,,,,86148,1880
+Land was probably owned collectively by matrilineages,,,603,1.0,EA074-Ng6-1,{},,Matrilineal by heirs (1700) [with special reference to the Munsee],86942,,with special reference to the Munsee,,86234,1700
+Matrilineal inheritance within the lineage,,,603,1.0,EA074-Nh18-1,{},,Matrilineal by heirs (1920) [Old Oraiibi],86952,,Old Oraiibi,,86244,1920
+,,,603,1.0,EA074-Nh2-1,{},,Matrilineal by heirs (1950),86954,,,,86246,1950
+A man's land is inherited by his daughters,,,603,1.0,EA074-Nh4-1,{},,Matrilineal by heirs (1910) [Pueblo],86960,,Pueblo,,86252,1910
+,,,604,1.0,EA074-Ad29-1,{},,"Children, less for daughters (1930)",86267,,,,85559,1930
+,,,604,1.0,EA074-Ag27-1,{},,"Children, less for daughters (1910)",86398,,,,85690,1910
+,,,604,1.0,EA074-Ca10-1,{},,"Children, less for daughters (1880)",86514,,,,85806,1880
+,,,604,1.0,EA074-Ca2-1,{},,"Children, less for daughters (1950) [Dolbahanta clan or subtribe]",86521,,Dolbahanta clan or subtribe,,85813,1950
+,,,604,1.0,EA074-Cb19-1,{},,"Children, less for daughters (1870)",86547,,,,85839,1870
+,,,604,1.0,EA074-Cb2-1,{},,"Children, less for daughters (1950) [Upper and lower Salum in Gambia]",86548,,Upper and lower Salum in Gambia,,85840,1950
+,,,604,1.0,EA074-Cb20-1,{},,"Children, less for daughters (1920)",86549,,,,85841,1920
+,,,604,1.0,EA074-Cb26-1,{},,"Children, less for daughters (1950) [Zazzagawa of Zaria]",86554,,Zazzagawa of Zaria,,85846,1950
+,,,604,1.0,EA074-Cb3-1,{},,"Children, less for daughters (1940) [Bamba division]",86556,,Bamba division,,85848,1940
+,,,604,1.0,EA074-Cb4-1,{},,"Children, less for daughters (1920)",86557,,,,85849,1920
+,,,604,1.0,EA074-Cb6-1,{},,"Children, less for daughters (1920)",86559,,,,85851,1920
+,,,604,1.0,EA074-Cc1-1,{},,"Children, less for daughters (1950)",86562,,,,85854,1950
+,,,604,1.0,EA074-Cc17-1,{},,"Children, less for daughters (1930)",86566,,,,85858,1930
+,,,604,1.0,EA074-Cc18-1,{},,"Children, less for daughters (1910)",86567,,,,85859,1910
+,,,604,1.0,EA074-Cc19-1,{},,"Children, less for daughters (1950)",86568,,,,85860,1950
+,,,604,1.0,EA074-Cc2-1,{},,"Children, less for daughters (1950) [Nomads of Tibesti]",86569,,Nomads of Tibesti,,85861,1950
+,,,604,1.0,EA074-Cc3-1,{},,"Children, less for daughters (1920) [inhabitants of the oasis of Siwa]",86571,,inhabitants of the oasis of Siwa,,85863,1920
+,,,604,1.0,EA074-Cd1-1,{},,"Children, less for daughters (1920) [Kenuzi Nubians of Dahmit]",86574,,Kenuzi Nubians of Dahmit,,85866,1920
+,,,604,1.0,EA074-Cd12-1,{},,"Children, less for daughters (1870)",86577,,,,85869,1870
+,,,604,1.0,EA074-Cd14-1,{},,"Children, less for daughters (1870)",86579,,,,85871,1870
+,,,604,1.0,EA074-Cd15-1,{},,"Children, less for daughters (1910)",86580,,,,85872,1910
+,,,604,1.0,EA074-Cd16-1,{},,"Children, less for daughters (1930) [with special reference to those in the hinterlandof Casablanca]",86581,,with special reference to those in the hinterlandof Casablanca,,85873,1930
+,,,604,1.0,EA074-Cd18-1,{},,"Children, less for daughters (1920)",86583,,,,85875,1920
+,,,604,1.0,EA074-Cd2-1,{},,"Children, less for daughters (1950) [Town and environs of Silwa]",86584,,Town and environs of Silwa,,85876,1950
+,,,604,1.0,EA074-Cd20-1,{},,"Children, less for daughters (1940)",86585,,,,85877,1940
+,,,604,1.0,EA074-Cd5-1,{},,"Children, less for daughters (1920) [with special reference to those of the Grand Atlas Mountains]",86588,,with special reference to those of the Grand Atlas Mountains,,85880,1920
+,,,604,1.0,EA074-Cd9-1,{},,"Children, less for daughters (1900)",86592,,,,85884,1900
+,,,604,1.0,EA074-Ce5-1,{},,"Children, less for daughters (1960) [with special reference to the inhabitants of the city of Naples and its immediate environs]",86596,,with special reference to the inhabitants of the city of Naples and its immediate environs,,85888,1960
+,,,604,1.0,EA074-Ce8-1,{},,"Children, less for daughters (1934) [with special reference to the village of Vera]",86599,,with special reference to the village of Vera,,85891,1934
+,,,604,1.0,EA074-Ch5-1,{},,"Children, less for daughters (1940) [with special reference to the village of Dragelevtsy]",86612,,with special reference to the village of Dragelevtsy,,85904,1940
+,,,604,1.0,EA074-Ci12-1,{},,"Children, less for daughters (1880) [Abkhaz Tribe]",86619,,Abkhaz Tribe,,85911,1880
+,,,604,1.0,EA074-Ci4-1,{},,"Children, less for daughters (1920)",86621,,,,85913,1920
+,,,604,1.0,EA074-Cj5-1,{},,"Children, less for daughters (1930)",86629,,,,85921,1930
+,,,604,1.0,EA074-Cj6-1,{},,"Children, less for daughters (1950) [with special reference to the sedentary population]",86630,,with special reference to the sedentary population,,85922,1950
+,,,604,1.0,EA074-Cj8-1,{},,"Children, less for daughters (1930) [with special reference to those of Mount Carmel in Israel]",86632,,with special reference to those of Mount Carmel in Israel,,85924,1930
+,,,604,1.0,EA074-Ea2-1,{},,"Children, less for daughters (1950) [with special reference to the Yusufsai of Swat]",86636,,with special reference to the Yusufsai of Swat,,85928,1950
+,,,604,1.0,EA074-Ea4-1,{},,"Children, less for daughters (1950)",86638,,,,85930,1950
+,,,604,1.0,EA074-Ic10-1,{},,"Children, less for daughters (1910) [Tobelo District]",86740,,Tobelo District,,86032,1910
+,,,604,1.0,EA074-Ie10-1,{},,"Children, less for daughters (1950) [with special reference to the Western Motu]",86759,,with special reference to the Western Motu,,86051,1950
+,,,604,1.0,EA074-If14-1,{},,"Children, less for daughters (1890) [Makin and Butiritari Islands (N)]",86784,,Makin and Butiritari Islands (N),,86076,1890
+,,,604,1.0,EA074-If7-1,{},,"Children, less for daughters (1940) [with special reference to the inhabitants of Onotoa]",86790,,with special reference to the inhabitants of Onotoa,,86082,1940
+,,,604,1.0,EA074-Ij3-1,{},,"Children, less for daughters (1900)",86812,,,,86104,1900
+,,,604,1.0,EA074-Na37-1,{},,"Children, less for daughters (1880)",86837,,,,86129,1880
+,,,605,1.0,EA074-Ad1-1,{},,Children (1950),86248,,,,85540,1950
+,,,605,1.0,EA074-Ae30-1,{},,Children (1920),86307,,,,85599,1920
+,,,605,1.0,EA074-Ag11-1,{},,Children (1910),86383,,,,85675,1910
+,,,605,1.0,EA074-Ce3-1,{},,Children (100) [City and environs of Rome],86594,,City and environs of Rome,,85886,100
+,,,605,1.0,EA074-Ce4-1,{},,Children (1930) [Labourd],86595,,Labourd,,85887,1930
+,,,605,1.0,EA074-Ce6-1,{},,Children (1950) [with special reference to the inhabitants of Andalusia],86597,,with special reference to the inhabitants of Andalusia,,85889,1950
+,,,605,1.0,EA074-Ce7-1,{},,Children (1950) [with special reference to the village of Vasilika],86598,,with special reference to the village of Vasilika,,85890,1950
+,,,605,1.0,EA074-Cf1-1,{},,Children (1920) [Small City in Connecticut],86600,,Small City in Connecticut,,85892,1920
+,,,605,1.0,EA074-Cf3-1,{},,Children (1930),86601,,,,85893,1930
+,,,605,1.0,EA074-Cf4-1,{},,Children (1940) [with special reference to the village of Cruz das Almas near Sao Paulo],86602,,with special reference to the village of Cruz das Almas near Sao Paulo,,85894,1940
+,,,605,1.0,EA074-Cg1-1,{},,Children (1950) [with special reference to the village of Anderen in Anlo parish of Drente province],86604,,with special reference to the village of Anderen in Anlo parish of Drente province,,85896,1950
+,,,605,1.0,EA074-Ch4-1,{},,Children (1900),86611,,,,85903,1900
+,,,605,1.0,EA074-Ee8-1,{},,Children (1950) [with special reference to the sedentary inhabitants of Banyan Hill],86669,,with special reference to the sedentary inhabitants of Banyan Hill,,85961,1950
+,,,605,1.0,EA074-Eh2-1,{},,Children (1900),86687,,,,85979,1900
+,,,605,1.0,EA074-Eh6-1,{},,Children (1950) [with special reference to the Kandyan Sinhalese],86691,,with special reference to the Kandyan Sinhalese,,85983,1950
+,,,605,1.0,EA074-Eh9-1,{},,Children (1930),86693,,,,85985,1930
+,,,605,1.0,EA074-Ei3-1,{},,Children (1950) [Nondwin Village],86702,,Nondwin Village,,85994,1950
+,,,605,1.0,EA074-Ei7-1,{},,Children (1910),86706,,,,85998,1910
+,,,605,1.0,EA074-Ej4-1,{},,Children (1950) [Red River Delta in Tonkin],86715,,Red River Delta in Tonkin,,86007,1950
+,,,605,1.0,EA074-Ej9-1,{},,Children (1940),86719,,,,86011,1940
+,,,605,1.0,EA074-Ia12-1,{},,Children (1950),86722,,,,86014,1950
+,,,605,1.0,EA074-Ia16-1,{},,Children (1910) [with special reference to the northern Kalinga],86724,,with special reference to the northern Kalinga,,86016,1910
+,,,605,1.0,EA074-Ia2-1,{},,Children (1950),86725,,,,86017,1950
+,,,605,1.0,EA074-Ia3-1,{},,Children (1920) [Kiangan Group],86726,,Kiangan Group,,86018,1920
+,,,605,1.0,EA074-Ia6-1,{},,Children (1930) [Su-Paiwan Village],86729,,Su-Paiwan Village,,86021,1930
+,,,605,1.0,EA074-Ia7-1,{},,Children (1950),86730,,,,86022,1950
+,,,605,1.0,EA074-Ia8-1,{},,Children (1900),86731,,,,86023,1900
+,,,605,1.0,EA074-Ib1-1,{},,"Children (1950) [Ulu Ai Group, Baleh]",86733,,"Ulu Ai Group, Baleh",,86025,1950
+,,,605,1.0,EA074-Ib2-1,{},,Children (1950) [Town and environs of Pare; Modjokuto],86734,,Town and environs of Pare; Modjokuto,,86026,1950
+,,,605,1.0,EA074-Ib5-1,{},,Children (1920) [with special reference to the village of Sensuron],86737,,with special reference to the village of Sensuron,,86029,1920
+,,,605,1.0,EA074-Ic5-1,{},,Children (1910) [Bare'e subgroup],86743,,Bare'e subgroup,,86035,1910
+,,,605,1.0,EA074-Ie24-1,{},,Children (1870),86770,,,,86062,1870
+,,,605,1.0,EA074-Ie38-1,{},,Children (1960) [with special reference to the Dugum group of the Grand Valley of the Balim River],86778,,with special reference to the Dugum group of the Grand Valley of the Balim River,,86070,1960
+,,,605,1.0,EA074-If8-1,{},,Children (1950) [with special reference to those of Saipa],86791,,with special reference to those of Saipa,,86083,1950
+,,,605,1.0,EA074-Ig6-1,{},,Children (1900),86799,,,,86091,1900
+,,,605,1.0,EA074-Ii7-1,{},,Children (1910),86809,,,,86101,1910
+,,,605,1.0,EA074-Ij5-1,{},,Children (1900),86813,,,,86105,1900
+,,,605,1.0,EA074-Ij6-1,{},,Children (1800),86814,,,,86106,1800
+"Houses were owned by females and inherited by the eldest child who, if a male, gave the house to his wife",,,605,1.0,EA074-Na10-1,{},,Children (1930),86817,,,,86109,1930
+,,,605,1.0,EA074-Nd52-1,{},,"Children (1860) [including the Suwuntsu (St. George), Gunlock, and Uinkaret groups of Southern Paiute]",86904,,"including the Suwuntsu (St. George), Gunlock, and Uinkaret groups of Southern Paiute",,86196,1860
+,,,605,1.0,EA074-Nd56-1,{},,Children (1860),86907,,,,86199,1860
+,,,605,1.0,EA074-Ng9-1,{},,Children (1920),86944,,,,86236,1920
+,,,605,1.0,EA074-Nh10-1,{},,Children (1920),86946,,,,86238,1920
+,,,605,1.0,EA074-Nh11-1,{},,Children (1900) [with special reference to the pueblo of San Ildefonso],86947,,with special reference to the pueblo of San Ildefonso,,86239,1900
+,,,605,1.0,EA074-Nh12-1,{},,Children (1920),86948,,,,86240,1920
+,,,605,1.0,EA074-Nh13-1,{},,Children (1920),86949,,,,86241,1920
+,,,605,1.0,EA074-Nh16-1,{},,"Children (1870) [Jicarilla Reservation, Dulce, New Mexico]",86950,,"Jicarilla Reservation, Dulce, New Mexico",,86242,1870
+,,,605,1.0,EA074-Nh17-1,{},,Children (1870),86951,,,,86243,1870
+,,,605,1.0,EA074-Nh5-1,{},,Children (1850),86961,,,,86253,1850
+,,,605,1.0,EA074-Ni1-1,{},,Children (1930),86962,,,,86254,1930
+,,,605,1.0,EA074-Nj10-1,{},,Children (1940) [mountain village of Yalagag],86969,,mountain village of Yalagag,,86261,1940
+,,,605,1.0,EA074-Nj7-1,{},,Children (1930) [with special reference to Ayutla],86972,,with special reference to Ayutla,,86264,1930
+,,,605,1.0,EA074-Sa3-1,{},,Children (1930),86976,,,,86268,1930
+,,,605,1.0,EA074-Sb9-1,{},,Children (1930),86983,,,,86275,1930
+,,,605,1.0,EA074-Sc2-1,{},,Children (1950),86986,,,,86278,1950
+,,,606,1.0,EA074-Ab21a-1,{},,Patrilineal by heirs (1930),86209,,,,85501,1930
+,,,606,1.0,EA074-Ad15-1,{},,Patrilineal by heirs (1900),86254,,,,85546,1900
+,,,606,1.0,EA074-Ad16-1,{},,Patrilineal by heirs (1920),86255,,,,85547,1920
+,,,606,1.0,EA074-Ad17-1,{},,Patrilineal by heirs (1920),86256,,,,85548,1920
+,,,606,1.0,EA074-Ad38-1,{},,Patrilineal by heirs (1910),86276,,,,85568,1910
+,,,606,1.0,EA074-Ad6-1,{},,Patrilineal by heirs (1930) [Age villages of Mwaya and Masoko],86287,,Age villages of Mwaya and Masoko,,85579,1930
+,,,606,1.0,EA074-Ae16-1,{},,Patrilineal by heirs (1910),86294,,,,85586,1910
+,,,606,1.0,EA074-Ae17-1,{},,Patrilineal by heirs (1900),86295,,,,85587,1900
+,,,606,1.0,EA074-Ae20-1,{},,Patrilineal by heirs (1940),86298,,,,85590,1940
+,,,606,1.0,EA074-Ae24-1,{},,Patrilineal by heirs (1920),86301,,,,85593,1920
+,,,606,1.0,EA074-Ae26-1,{},,Patrilineal by heirs (1910),86303,,,,85595,1910
+,,,606,1.0,EA074-Ae33-1,{},,Patrilineal by heirs (1920),86309,,,,85601,1920
+,,,606,1.0,EA074-Ae35-1,{},,Patrilineal by heirs (1900),86310,,,,85602,1900
+,,,606,1.0,EA074-Ae37-1,{},,Patrilineal by heirs (1930),86311,,,,85603,1930
+,,,606,1.0,EA074-Ae39-1,{},,Patrilineal by heirs (1920),86313,,,,85605,1920
+,,,606,1.0,EA074-Ae4-1,{},,Patrilineal by heirs (1930) [Ilanga group],86314,,Ilanga group,,85606,1930
+"Patrilineal, by brothers and sons",,,606,1.0,EA074-Ae41-1,{},,Patrilineal by heirs (1940),86316,,,,85608,1940
+,,,606,1.0,EA074-Ae58-1,{},,Patrilineal by heirs (1910),86332,,,,85624,1910
+,,,606,1.0,EA074-Ae6-1,{},,Patrilineal by heirs (1930) [with special reference to the Bena Kalundwe],86334,,with special reference to the Bena Kalundwe,,85626,1930
+,,,606,1.0,EA074-Af11-1,{},,Patrilineal by heirs (1920),86339,,,,85631,1920
+,,,606,1.0,EA074-Af16-1,{},,Patrilineal by heirs (1910),86342,,,,85634,1910
+,,,606,1.0,EA074-Af19-1,{},,Patrilineal by heirs (1950),86344,,,,85636,1950
+,,,606,1.0,EA074-Af27-1,{},,Patrilineal by heirs (1950),86349,,,,85641,1950
+,,,606,1.0,EA074-Af30-1,{},,Patrilineal by heirs (1920),86352,,,,85644,1920
+"But 'patrilineal by son(s)' (EA074 code ""7"") and 'equal distribution' (EA075 code ""1"") for property acquired rather than inherited by deceased",,,606,1.0,EA074-Af33-1,{},,"Patrilineal by heirs (1950) [Ekiti Division, Ondo Prov.]",86355,,"Ekiti Division, Ondo Prov.",,85647,1950
+,,,606,1.0,EA074-Af37-1,{},,Patrilineal by heirs (1900) [with special reference to the Akpafu],86357,,with special reference to the Akpafu,,85649,1900
+"But Daniell reports 'matrilineal by heirs' (EA074 code ""3"") and 'primogeniture' (EA075 code ""4"")",,,606,1.0,EA074-Af43-1,{},,Patrilineal by heirs (1930),86364,,,,85656,1930
+,,,606,1.0,EA074-Af46-1,{},,Patrilineal by heirs (1900),86367,,,,85659,1900
+,,,606,1.0,EA074-Af5-1,{},,Patrilineal by heirs (1930),86368,,,,85660,1930
+,,,606,1.0,EA074-Af50-1,{},,Patrilineal by heirs (1920),86369,,,,85661,1920
+,,,606,1.0,EA074-Af52-1,{},,Patrilineal by heirs (1920),86371,,,,85663,1920
+,,,606,1.0,EA074-Af53-1,{},,Patrilineal by heirs (1950),86372,,,,85664,1950
+,,,606,1.0,EA074-Af57-1,{},,Patrilineal by heirs (1910),86375,,,,85667,1910
+,,,606,1.0,EA074-Af58-1,{},,Patrilineal by heirs (1900),86376,,,,85668,1900
+"But 'patrilineal by son(s)' (EA074 code ""7"") and 'equal distribution' (EA075 code ""1"") for property acquired rather than inherited by deceased",,,606,1.0,EA074-Af6-1,{},,"Patrilineal by heirs (1950) [Yoruba, with special reference to the Oyo]",86377,,"Yoruba, with special reference to the Oyo",,85669,1950
+,,,606,1.0,EA074-Af8-1,{},,Patrilineal by heirs (1930),86379,,,,85671,1930
+,,,606,1.0,EA074-Ag1-1,{},,Patrilineal by heirs (1920) [Segou to Bamako on Niger River],86381,,Segou to Bamako on Niger River,,85673,1920
+,,,606,1.0,EA074-Ag10-1,{},,Patrilineal by heirs (1940),86382,,,,85674,1940
+,,,606,1.0,EA074-Ag12-1,{},,Patrilineal by heirs (1910),86384,,,,85676,1910
+,,,606,1.0,EA074-Ag13-1,{},,Patrilineal by heirs (1910),86385,,,,85677,1910
+,,,606,1.0,EA074-Ag15-1,{},,Patrilineal by heirs (1930),86386,,,,85678,1930
+,,,606,1.0,EA074-Ag19-1,{},,Patrilineal by heirs (1930) [with special reference to the Felup],86389,,with special reference to the Felup,,85681,1930
+,,,606,1.0,EA074-Ag2-1,{},,"Patrilineal by heirs (1950) [with special reference to Massi (Moshi) of Yatenga; (for those of Ouagadougou, see Ag47)]",86390,,"with special reference to Massi (Moshi) of Yatenga; (for those of Ouagadougou, see Ag47)",,85682,1950
+,,,606,1.0,EA074-Ag23-1,{},,Patrilineal by heirs (1910),86394,,,,85686,1910
+,,,606,1.0,EA074-Ag26-1,{},,Patrilineal by heirs (1930),86397,,,,85689,1930
+,,,606,1.0,EA074-Ag28-1,{},,Patrilineal by heirs (1930),86399,,,,85691,1930
+,,,606,1.0,EA074-Ag29-1,{},,Patrilineal by heirs (1910),86400,,,,85692,1910
+,,,606,1.0,EA074-Ag3-1,{},,Patrilineal by heirs (1930),86401,,,,85693,1930
+,,,606,1.0,EA074-Ag30-1,{},,Patrilineal by heirs (1910),86402,,,,85694,1910
+,,,606,1.0,EA074-Ag31-1,{},,Patrilineal by heirs (1910),86403,,,,85695,1910
+"Entry follows Vendeix; Delafosse reports 'matrilineal by heirs' (EA074 code ""3"") and 'primogeniture' (EA075 code ""4"")",,,606,1.0,EA074-Ag32-1,{},,Patrilineal by heirs (1900),86404,,,,85696,1900
+,,,606,1.0,EA074-Ag37-1,{},,Patrilineal by heirs (1910),86409,,,,85701,1910
+,,,606,1.0,EA074-Ag38-1,{},,Patrilineal by heirs (1910),86410,,,,85702,1910
+"But 'patrilineal by son(s)' (EA074 code ""7"") and 'equal distribution' (EA075 code ""1"") for property acquired rather than inherited by deceased",,,606,1.0,EA074-Ag4-1,{},,Patrilineal by heirs (1930) [Tallensi Tribe],86412,,Tallensi Tribe,,85704,1930
+,,,606,1.0,EA074-Ag40-1,{},,Patrilineal by heirs (1910),86413,,,,85705,1910
+,,,606,1.0,EA074-Ag42-1,{},,Patrilineal by heirs (1910),86414,,,,85706,1910
+,,,606,1.0,EA074-Ag49-1,{},,Patrilineal by heirs (1930),86418,,,,85710,1930
+,,,606,1.0,EA074-Ag5-1,{},,Patrilineal by heirs (1930),86419,,,,85711,1930
+,,,606,1.0,EA074-Ag50-1,{},,Patrilineal by heirs (1910),86420,,,,85712,1910
+,,,606,1.0,EA074-Ag51-1,{},,Patrilineal by heirs (1940),86421,,,,85713,1940
+,,,606,1.0,EA074-Ag52-1,{},,Patrilineal by heirs (1950),86422,,,,85714,1950
+,,,606,1.0,EA074-Ag6-1,{},,Patrilineal by heirs (1890),86425,,,,85717,1890
+,,,606,1.0,EA074-Ag7-1,{},,Patrilineal by heirs (1930),86426,,,,85718,1930
+,,,606,1.0,EA074-Ag9-1,{},,Patrilineal by heirs (1930),86428,,,,85720,1930
+,,,606,1.0,EA074-Ah11-1,{},,Patrilineal by heirs (1950),86430,,,,85722,1950
+,,,606,1.0,EA074-Ah14-1,{},,Patrilineal by heirs (1920),86433,,,,85725,1920
+,,,606,1.0,EA074-Ah15-1,{},,Patrilineal by heirs (1920),86434,,,,85726,1920
+,,,606,1.0,EA074-Ah24-1,{},,Patrilineal by heirs (1920),86443,,,,85735,1920
+,,,606,1.0,EA074-Ah27-1,{},,Patrilineal by heirs (1920),86445,,,,85737,1920
+,,,606,1.0,EA074-Ah33-1,{},,Patrilineal by heirs (1920),86451,,,,85743,1920
+,,,606,1.0,EA074-Ah37-1,{},,Patrilineal by heirs (1920),86455,,,,85747,1920
+,,,606,1.0,EA074-Ah38-1,{},,Patrilineal by heirs (1930),86456,,,,85748,1930
+,,,606,1.0,EA074-Ah8-1,{},,Patrilineal by heirs (1910),86460,,,,85752,1910
+,,,606,1.0,EA074-Ai22-1,{},,Patrilineal by heirs (1890),86470,,,,85762,1890
+,,,606,1.0,EA074-Ai28-1,{},,Patrilineal by heirs (1910),86474,,,,85766,1910
+,,,606,1.0,EA074-Ai3-1,{},,Patrilineal by heirs (1920),86476,,,,85768,1920
+"But 'patrilineal by son(s)' (EA074 code ""7"") and 'equal distribution' (EA075 code ""1"") for property acquired rather than inherited by deceased",,,606,1.0,EA074-Ai36-1,{},,Patrilineal by heirs (1920),86480,,,,85772,1920
+,,,606,1.0,EA074-Ai47-1,{},,Patrilineal by heirs (1939) [Northern division],86486,,Northern division,,85778,1939
+,,,606,1.0,EA074-Aj26-1,{},,Patrilineal by heirs (1910),86503,,,,85795,1910
+,,,606,1.0,EA074-Ca18-1,{},,Patrilineal by heirs (1940),86520,,,,85812,1940
+,,,606,1.0,EA074-Ca42-1,{},,Patrilineal by heirs (1950),86538,,,,85830,1950
+,,,606,1.0,EA074-Cb1-1,{},,Patrilineal by heirs (1940),86542,,,,85834,1940
+,,,606,1.0,EA074-Cb27-1,{},,Patrilineal by heirs (1920),86555,,,,85847,1920
+,,,606,1.0,EA074-Ec2-1,{},,Patrilineal by heirs (1900) [with special reference to the Yakutsk district],86648,,with special reference to the Yakutsk district,,85940,1900
+,,,606,1.0,EA074-Ei14-1,{},,Patrilineal by heirs (1920) [with special reference to the Chongli],86698,,with special reference to the Chongli,,85990,1920
+,,,606,1.0,EA074-Ii12-1,{},,Patrilineal by heirs (1920) [Pangai],86806,,Pangai,,86098,1920
+,,,606,1.0,EA074-Ii4-1,{},,Patrilineal by heirs (1890) [with special reference to the inhabitants of Vaitupu],86808,,with special reference to the inhabitants of Vaitupu,,86100,1890
+,,,606,1.0,EA074-Nb32-1,{},,Patrilineal by heirs (1860) [with special reference to the Shastika or eastern Shasta],86851,,with special reference to the Shastika or eastern Shasta,,86143,1860
+,,,606,1.0,EA074-Ni3-1,{},,Patrilineal by heirs (1920) [Huichol Tribe],86964,,Huichol Tribe,,86256,1920
+,,,606,1.0,EA074-Sa6-1,{},,Patrilineal by heirs (1520),86979,,,,86271,1520
+,,,607,1.0,EA074-Aa2-1,{},,Patrilineal by sons (1920) [with special reference to Central Dorobo],86192,,with special reference to Central Dorobo,,85484,1920
+,,,607,1.0,EA074-Ab10-1,{},,Patrilineal by sons (1936),86199,,,,85491,1936
+,,,607,1.0,EA074-Ab11-1,{},,Patrilineal by sons (1850),86200,,,,85492,1850
+,,,607,1.0,EA074-Ab12-1,{},,Patrilineal by sons (1830),86201,,,,85493,1830
+,,,607,1.0,EA074-Ab13-1,{},,Patrilineal by sons (1880) [with special reference to the Kgatla (Bakxatla)],86202,,with special reference to the Kgatla (Bakxatla),,85494,1880
+,,,607,1.0,EA074-Ab15-1,{},,Patrilineal by sons (1860),86203,,,,85495,1860
+,,,607,1.0,EA074-Ab17-1,{},,Patrilineal by sons (1920),86204,,,,85496,1920
+,,,607,1.0,EA074-Ab18-1,{},,Patrilineal by sons (1920) [with special reference to the Zezuru],86205,,with special reference to the Zezuru,,85497,1920
+,,,607,1.0,EA074-Ab2-1,{},,Patrilineal by sons (1880),86207,,,,85499,1880
+,,,607,1.0,EA074-Ab20-1,{},,Patrilineal by sons (1880),86208,,,,85500,1880
+,,,607,1.0,EA074-Ab3-1,{},,Patrilineal by sons (1890) [Ruling Luyana],86210,,Ruling Luyana,,85502,1890
+Precise distribution unreported,,,607,1.0,EA074-Ab5-1,{},,Patrilineal by sons (1930),86212,,,,85504,1930
+,,,607,1.0,EA074-Ab9-1,{},,Patrilineal by sons (1870),86216,,,,85508,1870
+,,,607,1.0,EA074-Ac36-1,{},,Patrilineal by sons (1920),86239,,,,85531,1920
+,,,607,1.0,EA074-Ac9-1,{},,Patrilineal by sons (1940) [with special reference to the Mpezeni group of Fort Jameson],86247,,with special reference to the Mpezeni group of Fort Jameson,,85539,1940
+,,,607,1.0,EA074-Ad10-1,{},,Patrilineal by sons (1910),86249,,,,85541,1910
+,,,607,1.0,EA074-Ad11-1,{},,Patrilineal by sons (1930),86250,,,,85542,1930
+,,,607,1.0,EA074-Ad12-1,{},,Patrilineal by sons (1940),86251,,,,85543,1940
+,,,607,1.0,EA074-Ad13-1,{},,Patrilineal by sons (1930),86252,,,,85544,1930
+,,,607,1.0,EA074-Ad2-1,{},,Patrilineal by sons (1950),86258,,,,85550,1950
+But only by sons of wives obtained by a bride-price,,,607,1.0,EA074-Ad20-1,{},,Patrilineal by sons (1920),86259,,,,85551,1920
+,,,607,1.0,EA074-Ad22-1,{},,Patrilineal by sons (1950),86260,,,,85552,1950
+,,,607,1.0,EA074-Ad23-1,{},,Patrilineal by sons (1910),86261,,,,85553,1910
+,,,607,1.0,EA074-Ad26-1,{},,Patrilineal by sons (1910),86264,,,,85556,1910
+,,,607,1.0,EA074-Ad3-1,{},,Patrilineal by sons (1910),86268,,,,85560,1910
+,,,607,1.0,EA074-Ad32-1,{},,Patrilineal by sons (1900),86271,,,,85563,1900
+,,,607,1.0,EA074-Ad33-1,{},,Patrilineal by sons (1900),86272,,,,85564,1900
+,,,607,1.0,EA074-Ad34-1,{},,Patrilineal by sons (1910),86273,,,,85565,1910
+,,,607,1.0,EA074-Ad35-1,{},,"Patrilineal by sons (1940) [To be distinguished from the tribe of the same name on the southeast slope f Mt. Mero, who are a branch of the Chagga]",86274,,"To be distinguished from the tribe of the same name on the southeast slope f Mt. Mero, who are a branch of the Chagga",,85566,1940
+,,,607,1.0,EA074-Ad37-1,{},,Patrilineal by sons (1940),86275,,,,85567,1940
+,,,607,1.0,EA074-Ad39-1,{},,Patrilineal by sons (1950),86277,,,,85569,1950
+,,,607,1.0,EA074-Ad4-1,{},,Patrilineal by sons (1930) [Fort Hall or Metume district],86278,,Fort Hall or Metume district,,85570,1930
+,,,607,1.0,EA074-Ad40-1,{},,Patrilineal by sons (1950),86279,,,,85571,1950
+,,,607,1.0,EA074-Ad41-1,{},,Patrilineal by sons (1930),86280,,,,85572,1930
+,,,607,1.0,EA074-Ad42-1,{},,Patrilineal by sons (1900),86281,,,,85573,1900
+,,,607,1.0,EA074-Ad45-1,{},,Patrilineal by sons (1920),86282,,,,85574,1920
+,,,607,1.0,EA074-Ad46-1,{},,Patrilineal by sons (1950),86283,,,,85575,1950
+,,,607,1.0,EA074-Ad47-1,{},,Patrilineal by sons (1900),86284,,,,85576,1900
+,,,607,1.0,EA074-Ad49-1,{},,Patrilineal by sons (1950),86285,,,,85577,1950
+,,,607,1.0,EA074-Ad5-1,{},,Patrilineal by sons (1940),86286,,,,85578,1940
+,,,607,1.0,EA074-Ad7-1,{},,Patrilineal by sons (1880) [Kyaddondo district (V: Kampala)],86288,,Kyaddondo district (V: Kampala),,85580,1880
+"In the north; 'patrilineal inheritance by heirs who take precedence over sons' (EA074 code ""6"") with 'equal distribution' (EA075 code ""1"") in the south",,,607,1.0,EA074-Ad9-1,{},,Patrilineal by sons (1900),86289,,,,85581,1900
+,,,607,1.0,EA074-Ae1-1,{},,Patrilineal by sons (1950) [with special reference to those of Bwamba in Uganda],86290,,with special reference to those of Bwamba in Uganda,,85582,1950
+,,,607,1.0,EA074-Ae10-1,{},,Patrilineal by sons (1910),86291,,,,85583,1910
+,,,607,1.0,EA074-Ae14-1,{},,Patrilineal by sons (1950),86292,,,,85584,1950
+,,,607,1.0,EA074-Ae15-1,{},,Patrilineal by sons (1940),86293,,,,85585,1940
+,,,607,1.0,EA074-Ae18-1,{},,Patrilineal by sons (1900),86296,,,,85588,1900
+,,,607,1.0,EA074-Ae2-1,{},,Patrilineal by sons (1950),86297,,,,85589,1950
+,,,607,1.0,EA074-Ae21-1,{},,Patrilineal by sons (1920),86299,,,,85591,1920
+,,,607,1.0,EA074-Ae22-1,{},,Patrilineal by sons (1900) [with special reference to the Bankutu],86300,,with special reference to the Bankutu,,85592,1900
+"Entry follows Torday and Joyce; Heusch reports 'matrilineal by heirs' (EA074 code ""3"") and 'primogeniture' (EA075 code ""4"")",,,607,1.0,EA074-Ae25-1,{},,Patrilineal by sons (1920) [with special reference to the northern Tetela],86302,,with special reference to the northern Tetela,,85594,1920
+,,,607,1.0,EA074-Ae28-1,{},,Patrilineal by sons (1900),86304,,,,85596,1900
+,,,607,1.0,EA074-Ae29-1,{},,Patrilineal by sons (1900),86305,,,,85597,1900
+,,,607,1.0,EA074-Ae32-1,{},,Patrilineal by sons (1920),86308,,,,85600,1920
+,,,607,1.0,EA074-Ae40-1,{},,Patrilineal by sons (1910),86315,,,,85607,1910
+,,,607,1.0,EA074-Ae42-1,{},,Patrilineal by sons (1900),86317,,,,85609,1900
+,,,607,1.0,EA074-Ae43-1,{},,Patrilineal by sons (1900),86318,,,,85610,1900
+,,,607,1.0,EA074-Ae45-1,{},,Patrilineal by sons (1900),86320,,,,85612,1900
+"But the source, Oertzen, elsewhere mentions inheritance by sisters' sons",,,607,1.0,EA074-Ae47-1,{},,Patrilineal by sons (1900),86322,,,,85614,1900
+,,,607,1.0,EA074-Ae49-1,{},,Patrilineal by sons (1900),86323,,,,85615,1900
+,,,607,1.0,EA074-Ae5-1,{},,Patrilineal by sons (1910),86324,,,,85616,1910
+,,,607,1.0,EA074-Ae50-1,{},,Patrilineal by sons (1920),86325,,,,85617,1920
+,,,607,1.0,EA074-Ae51-1,{},,Patrilineal by sons (1940) [Ndiki subtribe],86326,,Ndiki subtribe,,85618,1940
+,,,607,1.0,EA074-Ae52-1,{},,Patrilineal by sons (1950),86327,,,,85619,1950
+,,,607,1.0,EA074-Ae53-1,{},,Patrilineal by sons (1920),86328,,,,85620,1920
+Patrilineal,,,607,1.0,EA074-Ae55-1,{},,Patrilineal by sons (1950),86330,,,,85622,1950
+,,,607,1.0,EA074-Ae57-1,{},,Patrilineal by sons (1930),86331,,,,85623,1930
+,,,607,1.0,EA074-Ae59-1,{},,Patrilineal by sons (1950) [with special reference to the Ngie subtribe],86333,,with special reference to the Ngie subtribe,,85625,1950
+,,,607,1.0,EA074-Ae7-1,{},,Patrilineal by sons (1910),86335,,,,85627,1910
+,,,607,1.0,EA074-Ae8-1,{},,Patrilineal by sons (1910),86336,,,,85628,1910
+,,,607,1.0,EA074-Af1-1,{},,Patrilineal by sons (1890) [City and environs of Abomey],86337,,City and environs of Abomey,,85629,1890
+,,,607,1.0,EA074-Af10-1,{},,Patrilineal by sons (1930),86338,,,,85630,1930
+,,,607,1.0,EA074-Af15-1,{},,Patrilineal by sons (1920),86341,,,,85633,1920
+But formerly matrilineal in the Ekparabong subtribe,,,607,1.0,EA074-Af18-1,{},,Patrilineal by sons (1900),86343,,,,85635,1900
+,,,607,1.0,EA074-Af2-1,{},,Patrilineal by sons (1950),86345,,,,85637,1950
+,,,607,1.0,EA074-Af20-1,{},,Patrilineal by sons (1910),86346,,,,85638,1910
+,,,607,1.0,EA074-Af24-1,{},,Patrilineal by sons (1900),86347,,,,85639,1900
+,,,607,1.0,EA074-Af25-1,{},,Patrilineal by sons (1930),86348,,,,85640,1930
+,,,607,1.0,EA074-Af29-1,{},,Patrilineal by sons (1950),86350,,,,85642,1950
+,,,607,1.0,EA074-Af31-1,{},,Patrilineal by sons (1960) [with special reference to the Lafia],86353,,with special reference to the Lafia,,85645,1960
+,,,607,1.0,EA074-Af32-1,{},,Patrilineal by sons (1920) [Abeouta Province and Benin],86354,,Abeouta Province and Benin,,85646,1920
+,,,607,1.0,EA074-Af36-1,{},,Patrilineal by sons (1900) [with special reference to the Glidyi],86356,,with special reference to the Glidyi,,85648,1900
+,,,607,1.0,EA074-Af4-1,{},,Patrilineal by sons (1930),86360,,,,85652,1930
+,,,607,1.0,EA074-Af51-1,{},,Patrilineal by sons (1920),86370,,,,85662,1920
+,,,607,1.0,EA074-Af54-1,{},,Patrilineal by sons (1930),86373,,,,85665,1930
+,,,607,1.0,EA074-Af56-1,{},,Patrilineal by sons (1930) [with special reference to the Gio of the Ivory Coast],86374,,with special reference to the Gio of the Ivory Coast,,85666,1930
+,,,607,1.0,EA074-Ag16-1,{},,Patrilineal by sons (1930),86387,,,,85679,1930
+,,,607,1.0,EA074-Ag24-1,{},,Patrilineal by sons (1910),86395,,,,85687,1910
+,,,607,1.0,EA074-Ag25-1,{},,Patrilineal by sons (1900),86396,,,,85688,1900
+,,,607,1.0,EA074-Ag33-1,{},,Patrilineal by sons (1920),86405,,,,85697,1920
+The sources are in some conflict on rules of inheritance,,,607,1.0,EA074-Ag34-1,{},,Patrilineal by sons (1930),86406,,,,85698,1930
+The data on inheritance are cloudy and contradictory,,,607,1.0,EA074-Ag36-1,{},,Patrilineal by sons (1950),86408,,,,85700,1950
+,,,607,1.0,EA074-Ag47-1,{},,Patrilineal by sons (1900) [with special reference to those of Ouagadougou (see Ag2 for those of Yatenga)],86416,,with special reference to those of Ouagadougou (see Ag2 for those of Yatenga),,85708,1900
+,,,607,1.0,EA074-Ag48-1,{},,Patrilineal by sons (1890),86417,,,,85709,1890
+,,,607,1.0,EA074-Ag53-1,{},,Patrilineal by sons (1960) [with special reference to those of Garango],86423,,with special reference to those of Garango,,85715,1960
+,,,607,1.0,EA074-Ah1-1,{},,Patrilineal by sons (1930) [Zaria Province],86429,,Zaria Province,,85721,1930
+,,,607,1.0,EA074-Ah12-1,{},,Patrilineal by sons (1920),86431,,,,85723,1920
+,,,607,1.0,EA074-Ah13-1,{},,Patrilineal by sons (1930) [with special reference to the Liliwa],86432,,with special reference to the Liliwa,,85724,1930
+,,,607,1.0,EA074-Ah16-1,{},,Patrilineal by sons (1900),86435,,,,85727,1900
+,,,607,1.0,EA074-Ah17-1,{},,Patrilineal by sons (1930),86436,,,,85728,1930
+,,,607,1.0,EA074-Ah18-1,{},,Patrilineal by sons (1930),86437,,,,85729,1930
+,,,607,1.0,EA074-Ah19-1,{},,Patrilineal by sons (1930),86438,,,,85730,1930
+"Matrilineal by a sister's son(s)' (EA074 code ""2"") or 'patrilineal by son(s)' (EA074 code ""7""), both with 'equal distribution' (EA075 code ""1"") depending on residence",,,607,1.0,EA074-Ah2-1,{},,Patrilineal by sons (1920),86439,,,,85731,1920
+,,,607,1.0,EA074-Ah20-1,{},,Patrilineal by sons (1920),86440,,,,85732,1920
+,,,607,1.0,EA074-Ah22-1,{},,Patrilineal by sons (1900),86441,,,,85733,1900
+,,,607,1.0,EA074-Ah28-1,{},,Patrilineal by sons (1920) [with special reference to the Lekon subtribe],86446,,with special reference to the Lekon subtribe,,85738,1920
+,,,607,1.0,EA074-Ah31-1,{},,Patrilineal by sons (1910),86450,,,,85742,1910
+,,,607,1.0,EA074-Ah34-1,{},,Patrilineal by sons (1920) [with special reference to the Malabu],86452,,with special reference to the Malabu,,85744,1920
+,,,607,1.0,EA074-Ah35-1,{},,Patrilineal by sons (1920),86453,,,,85745,1920
+"Formerly 'patrilineal by son(s)' (EA074 code ""7"") and 'primogeniture' (EA075 code ""4"")",,,607,1.0,EA074-Ah36-1,{},,Patrilineal by sons (1920),86454,,,,85746,1920
+,,,607,1.0,EA074-Ah39-1,{},,Patrilineal by sons (1950),86457,,,,85749,1950
+,,,607,1.0,EA074-Ah5-1,{},,Patrilineal by sons (1930),86458,,,,85750,1930
+,,,607,1.0,EA074-Ah7-1,{},,Patrilineal by sons (1940),86459,,,,85751,1940
+,,,607,1.0,EA074-Ah9-1,{},,Patrilineal by sons (1920),86461,,,,85753,1920
+,,,607,1.0,EA074-Ai1-1,{},,Patrilineal by sons (1920),86462,,,,85754,1920
+,,,607,1.0,EA074-Ai10-1,{},,Patrilineal by sons (1940) [Nuba Hills],86463,,Nuba Hills,,85755,1940
+,,,607,1.0,EA074-Ai12-1,{},,Patrilineal by sons (1950),86464,,,,85756,1950
+,,,607,1.0,EA074-Ai13-1,{},,Patrilineal by sons (1920),86465,,,,85757,1920
+,,,607,1.0,EA074-Ai15-1,{},,Patrilineal by sons (1900),86466,,,,85758,1900
+,,,607,1.0,EA074-Ai16-1,{},,Patrilineal by sons (1910),86467,,,,85759,1910
+,,,607,1.0,EA074-Ai2-1,{},,Patrilineal by sons (1940),86468,,,,85760,1940
+,,,607,1.0,EA074-Ai20-1,{},,Patrilineal by sons (1910),86469,,,,85761,1910
+,,,607,1.0,EA074-Ai23-1,{},,Patrilineal by sons (1920),86471,,,,85763,1920
+,,,607,1.0,EA074-Ai24-1,{},,Patrilineal by sons (1900),86472,,,,85764,1900
+,,,607,1.0,EA074-Ai26-1,{},,Patrilineal by sons (1920),86473,,,,85765,1920
+,,,607,1.0,EA074-Ai29-1,{},,Patrilineal by sons (1920),86475,,,,85767,1920
+,,,607,1.0,EA074-Ai30-1,{},,Patrilineal by sons (1920),86477,,,,85769,1920
+,,,607,1.0,EA074-Ai33-1,{},,Patrilineal by sons (1940),86478,,,,85770,1940
+,,,607,1.0,EA074-Ai34-1,{},,Patrilineal by sons (1880),86479,,,,85771,1880
+,,,607,1.0,EA074-Ai37-1,{},,Patrilineal by sons (1940),86481,,,,85773,1940
+,,,607,1.0,EA074-Ai40-1,{},,Patrilineal by sons (1940),86482,,,,85774,1940
+,,,607,1.0,EA074-Ai41-1,{},,Patrilineal by sons (1930),86483,,,,85775,1930
+,,,607,1.0,EA074-Ai43-1,{},,Patrilineal by sons (1930),86484,,,,85776,1930
+,,,607,1.0,EA074-Ai45-1,{},,Patrilineal by sons (1930),86485,,,,85777,1930
+,,,607,1.0,EA074-Ai6-1,{},,Patrilineal by sons (1900) [Shilluk Kingdom],86487,,Shilluk Kingdom,,85779,1900
+,,,607,1.0,EA074-Ai7-1,{},,Patrilineal by sons (1910),86488,,,,85780,1910
+But eldest son inherits distant fields,,,607,1.0,EA074-Ai8-1,{},,Patrilineal by sons (1930),86489,,,,85781,1930
+,,,607,1.0,EA074-Ai9-1,{},,Patrilineal by sons (1910) [Around Yagoua in Cameroon],86490,,Around Yagoua in Cameroon,,85782,1910
+,,,607,1.0,EA074-Aj1-1,{},,Patrilineal by sons (1950),86491,,,,85783,1950
+,,,607,1.0,EA074-Aj13-1,{},,Patrilineal by sons (1930),86492,,,,85784,1930
+,,,607,1.0,EA074-Aj15-1,{},,Patrilineal by sons (1900),86493,,,,85785,1900
+,,,607,1.0,EA074-Aj17-1,{},,Patrilineal by sons (1890),86495,,,,85787,1890
+,,,607,1.0,EA074-Aj18-1,{},,Patrilineal by sons (1950),86496,,,,85788,1950
+,,,607,1.0,EA074-Aj19-1,{},,Patrilineal by sons (1920),86497,,,,85789,1920
+,,,607,1.0,EA074-Aj2-1,{},,Patrilineal by sons (1900) [Kisonko or Southern Masai of Tanzania],86498,,Kisonko or Southern Masai of Tanzania,,85790,1900
+,,,607,1.0,EA074-Aj22-1,{},,Patrilineal by sons (1930),86499,,,,85791,1930
+,,,607,1.0,EA074-Aj23-1,{},,Patrilineal by sons (1950),86500,,,,85792,1950
+,,,607,1.0,EA074-Aj24-1,{},,Patrilineal by sons (1930),86501,,,,85793,1930
+,,,607,1.0,EA074-Aj25-1,{},,Patrilineal by sons (1920),86502,,,,85794,1920
+,,,607,1.0,EA074-Aj28-1,{},,Patrilineal by sons (1940),86504,,,,85796,1940
+,,,607,1.0,EA074-Aj3-1,{},,Patrilineal by sons (1930),86506,,,,85798,1930
+"But often 'matrilineal by heirs who take precedence over sister's son(s)' (EA074 code ""3"") for private hunting tracts",,,607,1.0,EA074-Aj4-1,{},,Patrilineal by sons (1920),86507,,,,85799,1920
+,,,607,1.0,EA074-Aj5-1,{},,Patrilineal by sons (1920),86508,,,,85800,1920
+,,,607,1.0,EA074-Aj6-1,{},,Patrilineal by sons (1940),86509,,,,85801,1940
+,,,607,1.0,EA074-Aj7-1,{},,Patrilineal by sons (1910),86510,,,,85802,1910
+"Entry follows Seligman; Beaton reports 'patrilineal by son(s)' (EA074 code ""7"") and 'primogeniture' (EA075 code ""4"")",,,607,1.0,EA074-Aj8-1,{},,Patrilineal by sons (1920),86511,,,,85803,1920
+,,,607,1.0,EA074-Aj9-1,{},,Patrilineal by sons (1920),86512,,,,85804,1920
+,,,607,1.0,EA074-Ca1-1,{},,Patrilineal by sons (1930) [Town of Buso],86513,,Town of Buso,,85805,1930
+,,,607,1.0,EA074-Ca11-1,{},,Patrilineal by sons (1890),86515,,,,85807,1890
+,,,607,1.0,EA074-Ca12-1,{},,Patrilineal by sons (1880),86516,,,,85808,1880
+,,,607,1.0,EA074-Ca13-1,{},,Patrilineal by sons (1950) [with special reference to the eastern Macha],86517,,with special reference to the eastern Macha,,85809,1950
+,,,607,1.0,EA074-Ca15-1,{},,Patrilineal by sons (1930),86518,,,,85810,1930
+,,,607,1.0,EA074-Ca16-1,{},,Patrilineal by sons (1930),86519,,,,85811,1930
+,,,607,1.0,EA074-Ca23-1,{},,Patrilineal by sons (1950),86522,,,,85814,1950
+,,,607,1.0,EA074-Ca25-1,{},,Patrilineal by sons (1950),86523,,,,85815,1950
+,,,607,1.0,EA074-Ca28-1,{},,Patrilineal by sons (1950),86524,,,,85816,1950
+,,,607,1.0,EA074-Ca29-1,{},,Patrilineal by sons (1920),86525,,,,85817,1920
+,,,607,1.0,EA074-Ca3-1,{},,Patrilineal by sons (1950),86526,,,,85818,1950
+,,,607,1.0,EA074-Ca30-1,{},,Patrilineal by sons (1890) [Kafa Kingdom],86527,,Kafa Kingdom,,85819,1890
+,,,607,1.0,EA074-Ca37-1,{},,Patrilineal by sons (1850) [Bogo Tribe],86532,,Bogo Tribe,,85824,1850
+,,,607,1.0,EA074-Ca38-1,{},,"Patrilineal by sons (1860) [with special reference to the Maria (Marea, Marya) subtribe in the north]",86533,,"with special reference to the Maria (Marea, Marya) subtribe in the north",,85825,1860
+,,,607,1.0,EA074-Ca39-1,{},,Patrilineal by sons (1930),86534,,,,85826,1930
+,,,607,1.0,EA074-Ca4-1,{},,Patrilineal by sons (1950),86535,,,,85827,1950
+,,,607,1.0,EA074-Ca40-1,{},,Patrilineal by sons (1950),86536,,,,85828,1950
+,,,607,1.0,EA074-Ca41-1,{},,Patrilineal by sons (1950),86537,,,,85829,1950
+,,,607,1.0,EA074-Ca7-1,{},,Patrilineal by sons (1950) [Gondar district],86539,,Gondar district,,85831,1950
+,,,607,1.0,EA074-Ca8-1,{},,Patrilineal by sons (1940),86540,,,,85832,1940
+,,,607,1.0,EA074-Ca9-1,{},,Patrilineal by sons (1890),86541,,,,85833,1890
+,,,607,1.0,EA074-Cb10-1,{},,Patrilineal by sons (1920),86543,,,,85835,1920
+,,,607,1.0,EA074-Cb15-1,{},,Patrilineal by sons (1940) [with special reference to the Humr],86544,,with special reference to the Humr,,85836,1940
+"Entry follows Felkin; Beaton reports 'inheritance by children, daughters receiving less' (EA074 code ""4"") with 'equal distribution' (EA075 code ""1"")",,,607,1.0,EA074-Cb17-1,{},,Patrilineal by sons (1880) [Jebel Marra],86545,,Jebel Marra,,85837,1880
+,,,607,1.0,EA074-Cb18-1,{},,Patrilineal by sons (1930),86546,,,,85838,1930
+,,,607,1.0,EA074-Cb23-1,{},,Patrilineal by sons (1930),86551,,,,85843,1930
+,,,607,1.0,EA074-Cb25-1,{},,Patrilineal by sons (1930),86553,,,,85845,1930
+,,,607,1.0,EA074-Cb5-1,{},,Patrilineal by sons (1910),86558,,,,85850,1910
+,,,607,1.0,EA074-Cb9-1,{},,"Patrilineal by sons (1940) [Hausa, with special reference to the Kanawa]",86561,,"Hausa, with special reference to the Kanawa",,85853,1940
+,,,607,1.0,EA074-Cc20-1,{},,Patrilineal by sons (1910) [with special reference to the more nomadic northern groups],86570,,with special reference to the more nomadic northern groups,,85862,1910
+,,,607,1.0,EA074-Cd10-1,{},,Patrilineal by sons (1900),86575,,,,85867,1900
+,,,607,1.0,EA074-Cd13-1,{},,Patrilineal by sons (1930),86578,,,,85870,1930
+,,,607,1.0,EA074-Cd17-1,{},,Patrilineal by sons (1920),86582,,,,85874,1920
+"But theoretically 'inheritance by children, daughters receiving less' (EA074 code ""4"") with 'equal distribution' (EA075 code ""1"")",,,607,1.0,EA074-Cd3-1,{},,Patrilineal by sons (1920) [Entirety: Moroccan],86586,,Entirety: Moroccan,,85878,1920
+,,,607,1.0,EA074-Cd4-1,{},,Patrilineal by sons (1890),86587,,,,85879,1890
+,,,607,1.0,EA074-Cd6-1,{},,Patrilineal by sons (-1400) [with special reference to the New Empire],86589,,with special reference to the New Empire,,85881,-1400
+,,,607,1.0,EA074-Cd7-1,{},,Patrilineal by sons (1910) [with special reference to the Zemmur tribe],86590,,with special reference to the Zemmur tribe,,85882,1910
+,,,607,1.0,EA074-Cd8-1,{},,Patrilineal by sons (1910),86591,,,,85883,1910
+,,,607,1.0,EA074-Ce1-1,{},,Patrilineal by sons (1900) [Mountain Gheg of No. Albania],86593,,Mountain Gheg of No. Albania,,85885,1900
+,,,607,1.0,EA074-Cf5-1,{},,Patrilineal by sons (1930),86603,,,,85895,1930
+,,,607,1.0,EA074-Cg2-1,{},,Patrilineal by sons (1100),86605,,,,85897,1100
+,,,607,1.0,EA074-Cg3-1,{},,Patrilineal by sons (1930) [County Clare],86606,,County Clare,,85898,1930
+For tent or cottage and associated movables,,,607,1.0,EA074-Cg4-1,{},,Patrilineal by sons (1950) [Konkama District],86607,,Konkama District,,85899,1950
+,,,607,1.0,EA074-Ch2-1,{},,Patrilineal by sons (1890),86609,,,,85901,1890
+But the youngest son receives the largest share,,,607,1.0,EA074-Ch3-1,{},,Patrilineal by sons (1940) [with special reference to the Hana district of central Moravia],86610,,with special reference to the Hana district of central Moravia,,85902,1940
+,,,607,1.0,EA074-Ch6-1,{},,Patrilineal by sons (1910),86613,,,,85905,1910
+,,,607,1.0,EA074-Ch7-1,{},,Patrilineal by sons (1930),86614,,,,85906,1930
+,,,607,1.0,EA074-Ch9-1,{},,Patrilineal by sons (1930),86615,,,,85907,1930
+,,,607,1.0,EA074-Ci10-1,{},,Patrilineal by sons (1900) [Vicinity of Erevan],86617,,Vicinity of Erevan,,85909,1900
+,,,607,1.0,EA074-Ci11-1,{},,Patrilineal by sons (1940),86618,,,,85910,1940
+,,,607,1.0,EA074-Ci2-1,{},,Patrilineal by sons (1930),86620,,,,85912,1930
+,,,607,1.0,EA074-Ci5-1,{},,Patrilineal by sons (1950) [Northern Anatolian Plateau],86622,,Northern Anatolian Plateau,,85914,1950
+,,,607,1.0,EA074-Ci6-1,{},,Patrilineal by sons (1880),86623,,,,85915,1880
+,,,607,1.0,EA074-Ci9-1,{},,Patrilineal by sons (1910),86624,,,,85916,1910
+,,,607,1.0,EA074-Cj10-1,{},,Patrilineal by sons (1950) [with special reference to the village of ech-Chibayish],86625,,with special reference to the village of ech-Chibayish,,85917,1950
+,,,607,1.0,EA074-Cj3-1,{},,Patrilineal by sons (-800),86627,,,,85919,-800
+,,,607,1.0,EA074-Cj4-1,{},,Patrilineal by sons (-2000) [City and environs of Babylon],86628,,City and environs of Babylon,,85920,-2000
+,,,607,1.0,EA074-Cj7-1,{},,Patrilineal by sons (1950) [with special reference to the village of Munsif],86631,,with special reference to the village of Munsif,,85923,1950
+,,,607,1.0,EA074-Ea1-1,{},,Patrilineal by sons (1950),86633,,,,85925,1950
+,,,607,1.0,EA074-Ea10-1,{},,Patrilineal by sons (1950) [with special reference to the more nomadic groups],86634,,with special reference to the more nomadic groups,,85926,1950
+"Despite legal change in 1948 to 'inheritance by children of either sex' (EA074 code ""5"") with 'equal distribution' (EA075 code ""1"")",,,607,1.0,EA074-Ea13-1,{},,Patrilineal by sons (1950) [Mohla Village],86635,,Mohla Village,,85927,1950
+,,,607,1.0,EA074-Ea3-1,{},,Patrilineal by sons (1930) [with special reference to the Urazgani],86637,,with special reference to the Urazgani,,85929,1930
+,,,607,1.0,EA074-Ea5-1,{},,Patrilineal by sons (1890),86639,,,,85931,1890
+,,,607,1.0,EA074-Ea7-1,{},,Patrilineal by sons (1950),86641,,,,85933,1950
+,,,607,1.0,EA074-Eb2-1,{},,Patrilineal by sons (1920),86643,,,,85935,1920
+,,,607,1.0,EA074-Eb3-1,{},,Patrilineal by sons (1940) [Narobanchin Territory],86644,,Narobanchin Territory,,85936,1940
+,,,607,1.0,EA074-Eb4-1,{},,Patrilineal by sons (1940) [with special reference to the Botaha area],86645,,with special reference to the Botaha area,,85937,1940
+,,,607,1.0,EA074-Ec5-1,{},,Patrilineal by sons (1900) [with special reference to the Maritime Koryak],86650,,with special reference to the Maritime Koryak,,85942,1900
+,,,607,1.0,EA074-Ed1-1,{},,Patrilineal by sons (1950) [Kanghwa Island],86653,,Kanghwa Island,,85945,1950
+,,,607,1.0,EA074-Ed10-1,{},,Patrilineal by sons (1930) [with special reference to the village of Taitou],86654,,with special reference to the village of Taitou,,85946,1930
+,,,607,1.0,EA074-Ed15b-1,{},,"Patrilineal by sons (1936) [Kaihsienkung Village, Chekiang]",86655,,"Kaihsienkung Village, Chekiang",,85947,1936
+,,,607,1.0,EA074-Ed2-1,{},,Patrilineal by sons (1940) [Liang Shan and Taliang S],86656,,Liang Shan and Taliang S,,85948,1940
+,,,607,1.0,EA074-Ed3-1,{},,Patrilineal by sons (1920) [Aigun District],86657,,Aigun District,,85949,1920
+,,,607,1.0,EA074-Ed4-1,{},,Patrilineal by sons (1940) [with special reference to the Magpie (Yachio) Miao],86658,,with special reference to the Magpie (Yachio) Miao,,85950,1940
+,,,607,1.0,EA074-Ed5-1,{},,Patrilineal by sons (1950) [Okayama],86659,,Okayama,,85951,1950
+,,,607,1.0,EA074-Ed6-1,{},,Patrilineal by sons (1920) [with special reference to those in the hinterland of Swatow],86660,,with special reference to those in the hinterland of Swatow,,85952,1920
+,,,607,1.0,EA074-Ed7-1,{},,Patrilineal by sons (1950),86661,,,,85953,1950
+,,,607,1.0,EA074-Ed8-1,{},,Patrilineal by sons (1930),86662,,,,85954,1930
+,,,607,1.0,EA074-Ed9-1,{},,Patrilineal by sons (1930),86663,,,,85955,1930
+,,,607,1.0,EA074-Ee1-1,{},,Patrilineal by sons (1940),86664,,,,85956,1940
+,,,607,1.0,EA074-Ee3-1,{},,Patrilineal by sons (1930) [Lingthem and vicinity],86665,,Lingthem and vicinity,,85957,1930
+,,,607,1.0,EA074-Ee4-1,{},,Patrilineal by sons (1920) [with special reference to Central Tibet],86666,,with special reference to Central Tibet,,85958,1920
+,,,607,1.0,EA074-Ee5-1,{},,Patrilineal by sons (1870) [with special reference to the Shina tribe],86667,,with special reference to the Shina tribe,,85959,1870
+,,,607,1.0,EA074-Ee6-1,{},,Patrilineal by sons (1950) [with special reference to those of Khumbu],86668,,with special reference to those of Khumbu,,85960,1950
+,,,607,1.0,EA074-Ef1-1,{},,Patrilineal by sons (1940) [Bankura and Berghum Districts],86670,,Bankura and Berghum Districts,,85962,1940
+,,,607,1.0,EA074-Ef11-1,{},,Patrilineal by sons (1945) [Village and environs of Senapur],86671,,Village and environs of Senapur,,85963,1945
+,,,607,1.0,EA074-Ef2-1,{},,Patrilineal by sons (1940) [with special reference t the Western or Hindu Bengali],86672,,with special reference t the Western or Hindu Bengali,,85964,1940
+,,,607,1.0,EA074-Ef4-1,{},,Patrilineal by sons (1920),86673,,,,85965,1920
+,,,607,1.0,EA074-Ef5-1,{},,Patrilineal by sons (1900),86674,,,,85966,1900
+,,,607,1.0,EA074-Ef6-1,{},,Patrilineal by sons (1940),86675,,,,85967,1940
+,,,607,1.0,EA074-Ef7-1,{},,Patrilineal by sons (1950) [with special reference to the village of Sirkanda in western Uttar Pradesh],86676,,with special reference to the village of Sirkanda in western Uttar Pradesh,,85968,1950
+,,,607,1.0,EA074-Ef8-1,{},,Patrilineal by sons (1950) [with special reference to the Pandit or Sarasvati Brahmans],86677,,with special reference to the Pandit or Sarasvati Brahmans,,85969,1950
+,,,607,1.0,EA074-Ef9-1,{},,"Patrilineal by sons (1136) [Village of Atgam, Surat District; possibly also other areas]",86678,,"Village of Atgam, Surat District; possibly also other areas",,85970,1136
+,,,607,1.0,EA074-Eg1-1,{},,Patrilineal by sons (1940) [with special reference to the forest group],86679,,with special reference to the forest group,,85971,1940
+,,,607,1.0,EA074-Eg10-1,{},,Patrilineal by sons (1950) [with special reference to the village of Shamirpet],86680,,with special reference to the village of Shamirpet,,85972,1950
+,,,607,1.0,EA074-Eg11-1,{},,Patrilineal by sons (1960) [with special reference to the Gommu Koya],86681,,with special reference to the Gommu Koya,,85973,1960
+,,,607,1.0,EA074-Eg5-1,{},,Patrilineal by sons (1930),86684,,,,85976,1930
+,,,607,1.0,EA074-Eg8-1,{},,Patrilineal by sons (1940),86685,,,,85977,1940
+,,,607,1.0,EA074-Eh3-1,{},,Patrilineal by sons (1930) [Menabe subtribe],86688,,Menabe subtribe,,85980,1930
+,,,607,1.0,EA074-Eh4-1,{},,Patrilineal by sons (1900) [with special reference to the Rock Vedda],86689,,with special reference to the Rock Vedda,,85981,1900
+,,,607,1.0,EA074-Eh7-1,{},,Patrilineal by sons (1900),86692,,,,85984,1900
+,,,607,1.0,EA074-Ei10-1,{},,Patrilineal by sons (1870),86695,,,,85987,1870
+,,,607,1.0,EA074-Ei11-1,{},,Patrilineal by sons (1910),86696,,,,85988,1910
+,,,607,1.0,EA074-Ei13-1,{},,Patrilineal by sons (1910),86697,,,,85989,1910
+,,,607,1.0,EA074-Ei16-1,{},,Patrilineal by sons (1910),86699,,,,85991,1910
+"But 'patrilineal by son(s)' (EA074 code ""7"") and 'primogeniture' (EA075 code ""4"") in some localities",,,607,1.0,EA074-Ei19-1,{},,Patrilineal by sons (1940),86700,,,,85992,1940
+,,,607,1.0,EA074-Ei2-1,{},,Patrilineal by sons (1920),86701,,,,85993,1920
+,,,607,1.0,EA074-Ei4-1,{},,Patrilineal by sons (1930) [Lakher Tribe],86703,,Lakher Tribe,,85995,1930
+,,,607,1.0,EA074-Ei5-1,{},,Patrilineal by sons (1940) [with special reference to the Jinghpaw],86704,,with special reference to the Jinghpaw,,85996,1940
+,,,607,1.0,EA074-Ei6-1,{},,Patrilineal by sons (1930),86705,,,,85997,1930
+,,,607,1.0,EA074-Ei9-1,{},,Patrilineal by sons (1880),86708,,,,86000,1880
+,,,607,1.0,EA074-Ej13-1,{},,Patrilineal by sons (1940),86711,,,,86003,1940
+,,,607,1.0,EA074-Ej5-1,{},,Patrilineal by sons (1950),86716,,,,86008,1950
+,,,607,1.0,EA074-Ej7-1,{},,Patrilineal by sons (1950),86717,,,,86009,1950
+,,,607,1.0,EA074-Ej8-1,{},,Patrilineal by sons (1940) [with special reference to those of Trengganu],86718,,with special reference to those of Trengganu,,86010,1940
+"But Li reports 'patrilineal by son(s)' (EA074 code ""7"") and 'primogeniture' (EA075 code ""4"")",,,607,1.0,EA074-Ia1-1,{},,Patrilineal by sons (1930) [Atayal Tribe (but exdluding Sedeq)],86720,,Atayal Tribe (but exdluding Sedeq),,86012,1930
+,,,607,1.0,EA074-Ia10-1,{},,Patrilineal by sons (1930),86721,,,,86013,1930
+,,,607,1.0,EA074-Ia14-1,{},,Patrilineal by sons (1930),86723,,,,86015,1930
+,,,607,1.0,EA074-Ib3-1,{},,Patrilineal by sons (1950) [Tihingan Village],86735,,Tihingan Village,,86027,1950
+,,,607,1.0,EA074-Ib4-1,{},,Patrilineal by sons (1930) [with special reference to the Toba group],86736,,with special reference to the Toba group,,86028,1930
+,,,607,1.0,EA074-Ic11-1,{},,Patrilineal by sons (1950) [Allang],86741,,Allang,,86033,1950
+,,,607,1.0,EA074-Ic6-1,{},,Patrilineal by sons (1930),86744,,,,86036,1930
+,,,607,1.0,EA074-Ic7-1,{},,Patrilineal by sons (1920) [with special reference to the village of Leloba in E. Flores],86745,,with special reference to the village of Leloba in E. Flores,,86037,1920
+,,,607,1.0,EA074-Ic8-1,{},,Patrilineal by sons (1890),86746,,,,86038,1890
+,,,607,1.0,EA074-Ic9-1,{},,Patrilineal by sons (1930) [with special reference to eastern Sumba],86747,,with special reference to eastern Sumba,,86039,1930
+,,,607,1.0,EA074-Ie11-1,{},,Patrilineal by sons (1950),86760,,,,86052,1950
+,,,607,1.0,EA074-Ie12-1,{},,Patrilineal by sons (1930) [Hongwam subtribe; Rumbima],86761,,Hongwam subtribe; Rumbima,,86053,1930
+,,,607,1.0,EA074-Ie16-1,{},,Patrilineal by sons (1940),86762,,,,86054,1940
+,,,607,1.0,EA074-Ie17-1,{},,Patrilineal by sons (1940),86763,,,,86055,1940
+,,,607,1.0,EA074-Ie18-1,{},,Patrilineal by sons (1940) [Bamol Village],86764,,Bamol Village,,86056,1940
+,,,607,1.0,EA074-Ie2-1,{},,Patrilineal by sons (1920),86765,,,,86057,1920
+,,,607,1.0,EA074-Ie20-1,{},,Patrilineal by sons (1900),86766,,,,86058,1900
+,,,607,1.0,EA074-Ie21-1,{},,Patrilineal by sons (1900),86767,,,,86059,1900
+,,,607,1.0,EA074-Ie22-1,{},,Patrilineal by sons (1900),86768,,,,86060,1900
+,,,607,1.0,EA074-Ie23-1,{},,Patrilineal by sons (1950),86769,,,,86061,1950
+,,,607,1.0,EA074-Ie25-1,{},,Patrilineal by sons (1920),86771,,,,86063,1920
+,,,607,1.0,EA074-Ie26-1,{},,Patrilineal by sons (1940),86772,,,,86064,1940
+,,,607,1.0,EA074-Ie29-1,{},,Patrilineal by sons (1930) [principally Tsogari],86775,,principally Tsogari,,86067,1930
+,,,607,1.0,EA074-Ie3-1,{},,Patrilineal by sons (1930) [with special reference to the Mountain Arapesh (Alitoa)],86776,,with special reference to the Mountain Arapesh (Alitoa),,86068,1930
+,,,607,1.0,EA074-Ie31-1,{},,Patrilineal by sons (1950),86777,,,,86069,1950
+,,,607,1.0,EA074-Ie4-1,{},,"Patrilineal by sons (1930) [Dap, Wonevaro district]",86779,,"Dap, Wonevaro district",,86071,1930
+,,,607,1.0,EA074-Ie7-1,{},,Patrilineal by sons (1950) [with special reference to the Mae group],86781,,with special reference to the Mae group,,86073,1950
+,,,607,1.0,EA074-Ie8-1,{},,Patrilineal by sons (1910) [with special reference to the Koriki],86782,,with special reference to the Koriki,,86074,1910
+But provisional land rights revert to the matrilineage of the deceased,,,607,1.0,EA074-If2-1,{},,Patrilineal by sons (1940) [Romonum Island],86786,,Romonum Island,,86078,1940
+,,,607,1.0,EA074-Ig12-1,{},,Patrilineal by sons (1900) [with special reference to the Varisi],86793,,with special reference to the Varisi,,86085,1900
+,,,607,1.0,EA074-Ih10-1,{},,Patrilineal by sons (1920) [Whitsands],86802,,Whitsands,,86094,1920
+,,,607,1.0,EA074-Ih7-1,{},,Patrilineal by sons (1910),86804,,,,86096,1910
+,,,607,1.0,EA074-Ii10-1,{},,Patrilineal by sons (1950),86805,,,,86097,1950
+,,,607,1.0,EA074-Ii2-1,{},,Patrilineal by sons (1930) [Ravenga District],86807,,Ravenga District,,86099,1930
+,,,607,1.0,EA074-Ij10-1,{},,Patrilineal by sons (1900),86810,,,,86102,1900
+,,,607,1.0,EA074-Ij2-1,{},,Patrilineal by sons (1820) [Nga Puhi Tribe],86811,,Nga Puhi Tribe,,86103,1820
+,,,607,1.0,EA074-Ij7-1,{},,Patrilineal by sons (1900),86815,,,,86107,1900
+,,,607,1.0,EA074-Na20-1,{},,Patrilineal by sons (1880) [with special reference to the Tatlit of Peel River Kutchin],86825,,with special reference to the Tatlit of Peel River Kutchin,,86117,1880
+,,,607,1.0,EA074-Na32-1,{},,Patrilineal by sons (1880) [Lake St. John & Mistassini Band],86835,,Lake St. John & Mistassini Band,,86127,1880
+,,,607,1.0,EA074-Na34-1,{},,Patrilineal by sons (1940) [a band of Northern Saulteaux very closely akin to Na33 (Berens River band) but described as of a much more recent date],86836,,a band of Northern Saulteaux very closely akin to Na33 (Berens River band) but described as of a much more recent date,,86128,1940
+,,,607,1.0,EA074-Na7-1,{},,Patrilineal by sons (1900) [with special reference to the Attawapiskat Swampy Cree],86841,,with special reference to the Attawapiskat Swampy Cree,,86133,1900
+With reference to inheritance of dwellings,,,607,1.0,EA074-Nb16-1,{},,Patrilineal by sons (1860),86845,,,,86137,1860
+"Entry pertains to northern Yana; 'no inheritance of real property' (code ""1"") for central Yana",,,607,1.0,EA074-Nc11-1,{},,Patrilineal by sons (1860),86859,,,,86151,1860
+,,,607,1.0,EA074-Nc4-1,{},,Patrilineal by sons (1860),86873,,,,86165,1860
+,,,607,1.0,EA074-Nd3-1,{},,Patrilineal by sons (1870) [Havasupai Tribe],86891,,Havasupai Tribe,,86183,1870
+Springs and eagle nests were owned by males and inherited by the oldest son or nearest male relative,,,607,1.0,EA074-Nd53-1,{},,Patrilineal by sons (1860),86905,,,,86197,1860
+Pine nut tracts were inherited by a man's sons,,,607,1.0,EA074-Nd55-1,{},,"Patrilineal by sons (1860) [including the Pahrump, Ash Medows, and Tule Springs groups]",86906,,"including the Pahrump, Ash Medows, and Tule Springs groups",,86198,1860
+,,,607,1.0,EA074-Nd8-1,{},,Patrilineal by sons (1880) [with special reference to the Alexis Creek and Redstone bands],86920,,with special reference to the Alexis Creek and Redstone bands,,86212,1880
+,,,607,1.0,EA074-Nf3-1,{},,Patrilineal by sons (1850) [Omaha Tribe],86939,,Omaha Tribe,,86231,1850
+,,,607,1.0,EA074-Ng4-1,{},,Patrilineal by sons (1900),86941,,,,86233,1900
+,,,607,1.0,EA074-Nh25-1,{},,Patrilineal by sons (1920),86959,,,,86251,1920
+,,,607,1.0,EA074-Ni2-1,{},,Patrilineal by sons (1930),86963,,,,86255,1930
+,,,607,1.0,EA074-Ni6-1,{},,Patrilineal by sons (1840),86967,,,,86259,1840
+,,,607,1.0,EA074-Nj1-1,{},,Patrilineal by sons (1940) [Ojitlan],86968,,Ojitlan,,86260,1940
+,,,607,1.0,EA074-Nj2-1,{},,Patrilineal by sons (1520) [City & environs of Tenochtitlan],86970,,City & environs of Tenochtitlan,,86262,1520
+,,,607,1.0,EA074-Nj3-1,{},,Patrilineal by sons (1940) [Town and environs of Soteapan],86971,,Town and environs of Soteapan,,86263,1940
+,,,607,1.0,EA074-Nj8-1,{},,Patrilineal by sons (1500),86973,,,,86265,1500
+,,,607,1.0,EA074-Nj9-1,{},,Patrilineal by sons (1960),86974,,,,86266,1960
+,,,607,1.0,EA074-Sa13-1,{},,Patrilineal by sons (1930) [Town of Chichicastenango],86975,,Town of Chichicastenango,,86267,1930
+,,,607,1.0,EA074-Sa4-1,{},,Patrilineal by sons (1960) [with special reference to those of Panama],86977,,with special reference to those of Panama,,86269,1960
+,,,607,1.0,EA074-Sa8-1,{},,Patrilineal by sons (1930) [with special reference to the village of Santiago Chimaltenango],86980,,with special reference to the village of Santiago Chimaltenango,,86272,1930
+,,,607,1.0,EA074-Sb2-1,{},,Patrilineal by sons (1940),86981,,,,86273,1940
+,,,607,1.0,EA074-Sf2-1,{},,Patrilineal by sons (1940) [Chucuito Clan community in Peru],86998,,Chucuito Clan community in Peru,,86290,1940
+,,,607,1.0,EA074-Sf6-1,{},,Patrilineal by sons (1540),87000,,,,86292,1540
+,,,607,1.0,EA074-Sg2-1,{},,Patrilineal by sons (1880) [Cholchol],87002,,Cholchol,,86294,1880
+,,,607,1.0,EA074-Sh7-1,{},,Patrilineal by sons (1900),87009,,,,86301,1900
+,,,607,1.0,EA074-ch12-1,{},,Patrilineal by sons (1899) [with special reference to the Birskij Uezd Bashkir],87020,,with special reference to the Birskij Uezd Bashkir,,86312,1899
+,,,607,1.0,EA074-ch13-1,{},,Patrilineal by sons (1894) [with special reference to the Glazovskij Uezd Besermyan],87021,,with special reference to the Glazovskij Uezd Besermyan,,86313,1894
+,,,607,1.0,EA074-ch14-1,{},,Patrilineal by sons (1908) [with special reference to the Virjal group],87022,,with special reference to the Virjal group,,86314,1908
+,,,607,1.0,EA074-ch15-1,{},,Patrilineal by sons (1895) [with special reference to those of the Boklinskij Uezd],87023,,with special reference to those of the Boklinskij Uezd,,86315,1895
+,,,607,1.0,EA074-ch16-1,{},,Patrilineal by sons (1908) [with special reference to the Valkskij Uezd],87024,,with special reference to the Valkskij Uezd,,86316,1908
+,,,607,1.0,EA074-ch17-1,{},,Patrilineal by sons (1894) [with special reference to those of the Benderskij Uezd],87025,,with special reference to those of the Benderskij Uezd,,86317,1894
+,,,607,1.0,EA074-ch18-1,{},,"Patrilineal by sons (1927) [with special reference to those of the Kingisepp Rajon, the Leningrad Region]",87026,,"with special reference to those of the Kingisepp Rajon, the Leningrad Region",,86318,1927
+,,,607,1.0,EA074-ch19-1,{},,Patrilineal by sons (1874) [with special reference to the Livvikjoj group of the Olonetskij Uezd],87027,,with special reference to the Livvikjoj group of the Olonetskij Uezd,,86319,1874
+,,,607,1.0,EA074-ch20-1,{},,Patrilineal by sons (1910) [with special reference to those of the Altayrskij Uezd],87028,,with special reference to those of the Altayrskij Uezd,,86320,1910
+,,,607,1.0,EA074-ch21-1,{},,Patrilineal by sons (1881) [with special reference to the Vidzeme group],87029,,with special reference to the Vidzeme group,,86321,1881
+,,,607,1.0,EA074-ch22-1,{},,Patrilineal by sons (1895) [with special reference to those of the Trakaj area],87030,,with special reference to those of the Trakaj area,,86322,1895
+,,,607,1.0,EA074-ch23-1,{},,Patrilineal by sons (1905) [with special reference to those of the Vilenskaja Gubernija],87031,,with special reference to those of the Vilenskaja Gubernija,,86323,1905
+,,,607,1.0,EA074-ch25-1,{},,Patrilineal by sons (1900) [with special reference to the Beletskij Uezd],87033,,with special reference to the Beletskij Uezd,,86325,1900
+,,,607,1.0,EA074-ch26-1,{},,Patrilineal by sons (1890) [with special reference to those of the Sarapul'skij Uezd],87034,,with special reference to those of the Sarapul'skij Uezd,,86326,1890
+,,,607,1.0,EA074-ch27-1,{},,Patrilineal by sons (1900) [with special reference to the Petrozavodskij Uezd Veps],87035,,with special reference to the Petrozavodskij Uezd Veps,,86327,1900
+,,,607,1.0,EA074-ch28-1,{},,Patrilineal by sons (1900) [with special reference to those of the Yamburg Uezd],87036,,with special reference to those of the Yamburg Uezd,,86328,1900
